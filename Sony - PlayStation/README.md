@@ -1,3 +1,11 @@
+# DuckStation Usage
+
+Must use Redump named games
+
+```
+https://raw.githubusercontent.com/Jetup13/RA-Thumbnails/main/Sony%20-%20PlayStation/Named_Boxarts/${filetitle}.png
+```
+
 # Named Boxarts
 
 Size - `512x512`
@@ -25,7 +33,5 @@ WipEout 3 cover without logo
 # Stuff to do
 
 ```
-Update PSX logo for every image
-
 Add more games
 ```
