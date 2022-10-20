@@ -3,7 +3,7 @@
 Must use Redump named games
 
 ```
-https://raw.githubusercontent.com/Jetup13/RA-Thumbnails/main/Sony%20-%20PlayStation/Named_Boxarts/${filetitle}.png
+https://raw.githubusercontent.com/Jetup13/CustomCovers/main/Sony%20-%20PlayStation/Named_Boxarts/${filetitle}.png
 ```
 
 # Named Boxarts
