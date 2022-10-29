@@ -28,6 +28,8 @@ Bushido Blade 2 (USA) cover without logo
 Fatal Fury Wild Ambition (USA) cover without logo
 
 WipEout 3 cover without logo
+
+Ace Combat 3 (USA) cover without logo
 ```
 
 # Stuff to do
