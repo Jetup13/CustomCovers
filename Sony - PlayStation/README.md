@@ -23,8 +23,6 @@ File Extension - `.png`
 ```
 Brigandine - The Legend of Forsena (USA) cover without logo
 
-Bushido Blade 2 (USA) cover without logo
-
 Fatal Fury Wild Ambition (USA) cover without logo
 
 WipEout 3 cover without logo
