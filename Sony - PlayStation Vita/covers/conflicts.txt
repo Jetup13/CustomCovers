@@ -1,0 +1,55 @@
+Conflict: File '& - Sora no Mukou de Saki Masuyou ni (Japan) (Card).png' already exists.
+Conflict: File '5-nin no Koi Prince - Himitsu no Keiyaku Kekkon (Japan) (Card).png' already exists.
+Conflict: File 'A.W. Phoenix Festa (Asia) (Card).png' already exists.
+Conflict: File 'Aerial Life (Japan) (PSN).png' already exists.
+Conflict: File 'Ai Kiss (Japan) (Card).png' already exists.
+Conflict: File 'Ai Kiss (Japan) (Card).png' already exists.
+Conflict: File 'Air (Japan) (Card).png' already exists.
+Conflict: File 'Aiyoku no Eustia - Angel's Blessing (Japan) (Card).png' already exists.
+Conflict: File 'Aiyoku no Eustia - Angel's Blessing (Japan) (Card).png' already exists.
+Conflict: File 'Akai Suna Ochiru Tsuki (Japan) (Card).png' already exists.
+No match found for 'AKB1-149 - Ren'ai Sousenkyo (Asia).png'
+No match found for 'AKB1-149 - Ren'ai Sousenkyo (Japan).png'
+Conflict: File 'Akiba's Beat (Europe) (Card).png' already exists.
+Conflict: File 'Akiba's Beat (Japan) (Card).png' already exists.
+Conflict: File 'Akiba's Beat (USA) (Card).png' already exists.
+Conflict: File 'Akiba's Trip - Undead & Undressed (Europe) (Card).png' already exists.
+Conflict: File 'Akiba's Trip - Undead & Undressed (USA) (Card).png' already exists.
+Conflict: File 'Akiba's Trip 2 (Japan) (Card).png' already exists.
+Conflict: File 'Alia's Carnival! Sacrament (Japan) (Card).png' already exists.
+Conflict: File 'Amaekata wa Kanojo Nari ni. (Japan) (Card).png' already exists.
+Conflict: File 'Amagami (EbKore+) (Japan) (Card).png' already exists.
+Conflict: File 'Amatsumi Sora ni! Kumo no Hatate ni (Japan) (Card).png' already exists.
+Conflict: File 'Amenity's Life (Japan) (Card).png' already exists.
+Conflict: File 'Amnesia - Memories (Europe) (PSN).png' already exists.
+Conflict: File 'Amnesia - Memories (USA) (PSN).png' already exists.
+Conflict: File 'Amnesia - V Edition (Japan) (Card).png' already exists.
+Conflict: File 'Amnesia World (Japan) (Card).png' already exists.
+Conflict: File 'Angelique Retour (Japan) (Card).png' already exists.
+Conflict: File 'Anoko wa Ore Kara Hanarenai (Japan) (Card).png' already exists.
+Conflict: File 'Ao no Kanata no Four Rhythm (Japan) (Card).png' already exists.
+Conflict: File 'Aoki Tsubasa no Chevalier (Japan) (Card).png' already exists.
+Conflict: File 'Aonatsu Line (Japan) (Card).png' already exists.
+Conflict: File 'Arcana Famiglia - La storia della Aracana Famiglia - Ancora (Japan) (Card).png' already exists.
+Conflict: File 'Arcana Famiglia - La storia della Aracana Famiglia - Ancora (Japan) (Card).png' already exists.
+Conflict: File 'Arcana Heart 3 - LOVEMAX!!!!! (Europe) (Card).png' already exists.
+Conflict: File 'Arcana Heart 3 - LOVEMAX!!!!! (Japan) (Card).png' already exists.
+Conflict: File 'Arcana Heart 3 - LOVEMAX!!!!! (USA) (Card).png' already exists.
+No match found for 'Burly Men At Sea - Sannin no Umi no Otoko (Japan).png'
+Conflict: File 'Digimon Story Cyber Sleuth (USA) (PSN).png' already exists.
+Conflict: File 'Digimon Story Cyber Sleuth - Hacker's Memory (USA) (PSN).png' already exists.
+Conflict: File 'Final Fantasy X-2 HD Remaster (Europe) (PSN).png' already exists.
+Conflict: File 'Final Fantasy X HD Remaster (USA) (Card).png' already exists.
+Conflict: File 'Final Fantasy X-2 HD Remaster (Europe) (PSN).png' already exists.
+Conflict: File 'Final Fantasy X-2 HD Remaster (Japan) (Card).png' already exists.
+Conflict: File 'Final Fantasy X HD Remaster (USA) (Card).png' already exists.
+Conflict: File 'Metal Gear Solid 2 - Sons of Liberty HD Edition (USA) (PSN).png' already exists.
+Conflict: File 'Metal Gear Solid 3 - Snake Eater HD Edition (USA) (PSN).png' already exists.
+Conflict: File 'Metal Gear Solid HD Collection (USA) (Card).png' already exists.
+Conflict: File 'Persona 4 Golden (Europe) (Card).png' already exists.
+Conflict: File 'Sonic & All-Stars Racing Transformed (Europe) (Card).png' already exists.
+Conflict: File 'Soul Sacrifice (Europe) (Card).png' already exists.
+Conflict: File 'Steins;Gate (Japan) (Card).png' already exists.
+Conflict: File 'Tsuihou Senkyo (Japan) (Card).png' already exists.
+Conflict: File 'VA-11 Hall-A - Cyberpunk Bartender Action (Europe) (PSN).png' already exists.
+Conflict: File 'Ys - Memories of Celceta (USA) (Card).png' already exists.
