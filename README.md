@@ -8,6 +8,12 @@ All images are named after Redump & No-Into romsets.
 https://raw.githubusercontent.com/Jetup13/CustomCovers/main/ps2/covers/${filetitle}.png
 ```
 
+or 
+
+```
+https://raw.githubusercontent.com/Jetup13/CustomCovers/main/ps2/serial/${serial}.png
+```
+
 ### Use with DuckStation
 
 ```

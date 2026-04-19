@@ -1,0 +1,386 @@
+[NO MATCH] 0 Story (Japan).png
+[NO MATCH] 007 - Quantum of Solace (USA).png
+[MULTI-SERIAL SKIPPED] 7 (Seven) - Molmorth no Kiheitai (Japan) (v1.20).png -> SLPS-25025
+[MULTI-SERIAL SKIPPED] 7 (Seven) - Molmorth no Kiheitai (Japan) (v2.00).png -> SLPS-25025
+[NO MATCH] 7 Blades (Europe).png
+[NO MATCH] A Visual Mix - Ayumi Hamasaki Dome Tour 2001 A (Japan) (Disc 1) (Alt).png
+[NO MATCH] A Visual Mix - Ayumi Hamasaki Dome Tour 2001 A (Japan) (Disc 1).png
+[NO MATCH] A Visual Mix - Ayumi Hamasaki Dome Tour 2001 A (Japan) (Disc 2) (Alt).png
+[NO MATCH] A Visual Mix - Ayumi Hamasaki Dome Tour 2001 A (Japan) (Disc 2).png
+[MULTI-SERIAL SKIPPED] Ace Combat - Distant Thunder (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-50410
+[MULTI-SERIAL SKIPPED] Ace Combat - The Belkan War (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-54041
+[NO MATCH] ADK Tamashii (Japan).png
+[NO MATCH] Akane-iro ni Somaru Saka - Parallel (Japan).png
+[NO MATCH] Anime Battle - Rekka no Honoo - Final Burning (Japan).png
+[MULTI-SERIAL SKIPPED] Ape Escape 3 (Europe) (En,Fr,De,Es,It).png -> SCES-53642
+[NO MATCH] Ar tonelico - Melody of Elemia (Europe).png
+[NO MATCH] Ar tonelico - Melody of Elemia (USA).png
+[NO MATCH] Ar tonelico - Sekai no Owari de Utai Tsuzukeru Shoujo (Japan) (PlayStation 2 the Best).png
+[NO MATCH] Ar tonelico - Sekai no Owari de Utai Tsuzukeru Shoujo (Japan).png
+[NO MATCH] Ar tonelico II - Melody of Metafalica (Europe).png
+[NO MATCH] Ar tonelico II - Melody of Metafalica (USA).png
+[NO MATCH] Ar tonelico II - Sekai ni Hibiku Shoujo-tachi no Metafalica (Japan) (PlayStation 2 the Best).png
+[NO MATCH] Ar tonelico II - Sekai ni Hibiku Shoujo-tachi no Metafalica (Japan).png
+[MULTI-SERIAL SKIPPED] Arc - Twilight of the Spirits (Europe) (En,Fr,De,Es,It).png -> SCES-51910
+[NO MATCH] Armored Core - Nexus (Japan) (Disc 1) (Evolution).png
+[NO MATCH] Armored Core - Nexus (Japan) (Disc 2) (Revolution).png
+[NO MATCH] Armored Core - Nexus (Japan).png
+[NO MATCH] Armored Core - Nexus (USA).png
+[MULTI-SERIAL SKIPPED] Armored Core 2 (Europe).png -> SLES-50079
+[MULTI-SERIAL SKIPPED] Atelier Iris - Eternal Mana (Europe).png -> SLES-53764
+[MULTI-SERIAL SKIPPED] ATV Offroad Fury (USA) (v1.00).png -> SCUS-97104
+[MULTI-SERIAL SKIPPED] ATV Offroad Fury (USA) (v3.01).png -> SCUS-97104
+[MULTI-SERIAL SKIPPED] ATV Offroad Fury 2 (USA) (v1.00).png -> SCUS-97211
+[MULTI-SERIAL SKIPPED] ATV Offroad Fury 2 (USA) (v2.00).png -> SCUS-97211
+[NO MATCH] Ayakashi-bito - Gen'you Ibunroku (Japan).png
+[MULTI-SERIAL SKIPPED] Batman - Vengeance (USA) (En,Fr) (Rev 1).png -> SLUS-20226
+[MULTI-SERIAL SKIPPED] Batman - Vengeance (USA) (En,Fr).png -> SLUS-20226
+[NO MATCH] Battle Gear 3 (Japan).png
+[MULTI-SERIAL SKIPPED] Battlefield 2 - Modern Combat (Europe) (En,Es,Nl,Sv) (v1.00).png -> SLES-53729
+[MULTI-SERIAL SKIPPED] Battlefield 2 - Modern Combat (Europe) (En,Es,Nl,Sv) (v2.01).png -> SLES-53729
+[NO MATCH] Beatmania II DX 16 - Empress + Premium Best (Japan).png
+[NO MATCH] Bistro Cupid 2 (Japan) (Tokubetsu-ban).png
+[MULTI-SERIAL SKIPPED] Black (Europe) (En,Fr,De,Es,It).png -> SLES-53886
+[MULTI-SERIAL SKIPPED] Bleach - Erabareshi Tamashii (Japan) (v1.00).png -> SCPS-15087
+[MULTI-SERIAL SKIPPED] Bleach - Erabareshi Tamashii (Japan) (v2.00).png -> SCPS-15087
+[NO MATCH] Bleach - Erabareshi Tamashii (Japan).png
+[MULTI-SERIAL SKIPPED] Bloody Roar 3 (Japan) (v1.02).png -> SLPM-62055
+[MULTI-SERIAL SKIPPED] Bloody Roar 3 (Japan) (v2.01).png -> SLPM-62055
+[MULTI-SERIAL SKIPPED] BMX XXX (USA).png -> SLUS-20415
+[NO MATCH] Bouncer, The (USA) (En,Ja).png
+[MULTI-SERIAL SKIPPED] Burnout 2 - Point of Impact (Europe, Australia) (En,Fr,De,Es,It).png -> SLES-51044
+[NO MATCH] Burnout 3 - Takedown (USA).png
+[NO MATCH] Burnout Dominator (USA).png
+[NO MATCH] Burnout Revenge (USA).png
+[MULTI-SERIAL SKIPPED] Call of Duty - Finest Hour (USA) (v1.04).png -> SLUS-20725
+[MULTI-SERIAL SKIPPED] Call of Duty - Finest Hour (USA) (v2.02).png -> SLUS-20725
+[NO MATCH] Call of Duty - World at War - Final Fronts (USA) (En,Fr).png
+[MULTI-SERIAL SKIPPED] Call of Duty 2 - Big Red One (USA) (Collector's Edition).png -> SLUS-21228
+[MULTI-SERIAL SKIPPED] Call of Duty 2 - Big Red One (USA).png -> SLUS-21228
+[MULTI-SERIAL SKIPPED] Capcom Fighting Jam (Europe, Australia).png -> SLES-52854
+[MULTI-SERIAL SKIPPED] Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan).png -> SLPM-65047
+[NO MATCH] Chou Battle Houshin (Japan.png
+[NO MATCH] Cold Fear (USA).png
+[NO MATCH] Colin McRae Rally 04 (Europe) (En,Fr,De,Es,It).png
+[NO MATCH] Corvette Evolution GT (USA).png
+[MULTI-SERIAL SKIPPED] Crash Bandicoot - The Wrath of Cortex (USA) (v1.00).png -> SLUS-20238
+[MULTI-SERIAL SKIPPED] Crash Bandicoot - The Wrath of Cortex (USA) (v1.01).png -> SLUS-20238
+[MULTI-SERIAL SKIPPED] Crash Tag Team Racing (USA).png -> SLUS-21191
+[MULTI-SERIAL SKIPPED] Crazy Taxi (Europe, Australia) (En,Fr,De,Es).png -> SLES-50215
+[MULTI-SERIAL SKIPPED] Crazy Taxi (USA) (Greatest Hits).png -> SLUS-20202
+[MULTI-SERIAL SKIPPED] Crazy Taxi (USA).png -> SLUS-20202
+[MULTI-SERIAL SKIPPED] Crisis Zone (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-52530
+[NO MATCH] Dai-2-Ji Super Robot Taisen Alpha (Japan).png
+[NO MATCH] Dai-3-Ji Super Robot Taisen Alpha - Shuuen no Ginga e (Japan).png
+[MULTI-SERIAL SKIPPED] Dancing Stage Fusion (Europe) (En,Fr,De,Es,It).png -> SLES-52598
+[NO MATCH] Dark Chronicle (Japan).png
+[MULTI-SERIAL SKIPPED] Dark Cloud 2 (USA) (v1.00).png -> SCUS-97213
+[MULTI-SERIAL SKIPPED] Dark Cloud 2 (USA) (v2.00).png -> SCUS-97213
+[MULTI-SERIAL SKIPPED] Dead or Alive 2 (Europe) (En,Fr,De,Es,It).png -> SCES-50003
+[MULTI-SERIAL SKIPPED] Dead to Rights (Europe) (En,Fr,Es,It).png -> SLES-51581
+[NO MATCH] Death by Degrees - Tekken - Nina Willams (Japan).png
+[MULTI-SERIAL SKIPPED] Def Jam - Fight for NY (Europe, Australia) (En,Fr).png -> SLES-52507
+[MULTI-SERIAL SKIPPED] Devil May Cry (USA).png -> SLUS-20216
+[NO MATCH] Devil May Cry 2 (USA).png
+[MULTI-SERIAL SKIPPED] Devil May Cry 3 - Dante's Awakening (USA) (En,Ja) (Special Edition).png -> SLUS-20216
+[NO MATCH] Dirge of Cerberus - Final Fantasy VII (Europe, Australia) (En,Fr,De,Es,It).png
+[NO MATCH] Disney-Pixar Cars - Mater-National Championship (USA).png
+[NO MATCH] DJ Hero (USA).png
+[MULTI-SERIAL SKIPPED] Dokapon the World (Japan) (v1.03).png -> SLPM-65750
+[MULTI-SERIAL SKIPPED] Dokapon the World (Japan) (v2.00).png -> SLPM-65750
+[NO MATCH] Dot Hack Akusei Hen'i Vol. 2 (Japan).png
+[MULTI-SERIAL SKIPPED] Dot Hack Part 1 - Infection (Europe) (En,Fr,De,Es,It).png -> SLES-52237
+[NO MATCH] Dot Hack Part 1 - Infection (USA) (En,Ja).png
+[MULTI-SERIAL SKIPPED] Dragon Ball Z - Budokai 3 (USA) (Greatest Hits).png -> SLUS-20998
+[MULTI-SERIAL SKIPPED] Dragon Ball Z - Budokai 3 (USA).png -> SLUS-20998
+[MULTI-SERIAL SKIPPED] Dragon Ball Z - Budokai Tenkaichi 2 (USA) (En,Ja).png -> SLUS-21441
+[NO MATCH] Dragon Quest V - Tenkuu no Hanayome (Japan).png
+[MULTI-SERIAL SKIPPED] Drakan - The Ancients' Gates (USA).png -> SCUS-97128
+[MULTI-SERIAL SKIPPED] DreamWorks Madagascar (USA) (v1.01).png -> SLUS-21015
+[MULTI-SERIAL SKIPPED] DreamWorks Madagascar (USA) (v2.01).png -> SLUS-21015
+[MULTI-SERIAL SKIPPED] DreamWorks Madagascar (USA) (v3.01).png -> SLUS-21015
+[NO MATCH] DreamWorks Madagascar - Escape 2 Africa (USA).png
+[NO MATCH] Driv3r (USA) (En,Fr,Es).png
+[NO MATCH] Driver - Parallel Lines (USA).png
+[NO MATCH] Driving Emotion Type-S (USA) (En,Fr,De,Es,It).png
+[MULTI-SERIAL SKIPPED] Ecco the Dolphin - Defender of the Future (Europe) (En,Fr,De,Es,It).png -> SCES-50499
+[NO MATCH] Ed, Edd n Eddy - The Mis-Edventures (USA).png
+[MULTI-SERIAL SKIPPED] Enter the Matrix (Europe) (En,Fr,De,Es,It) (v1.01).png -> SLES-51203
+[MULTI-SERIAL SKIPPED] Enter the Matrix (Europe) (En,Fr,De,Es,It) (v2.00).png -> SLES-51203
+[MULTI-SERIAL SKIPPED] Enter the Matrix (USA) (v1.01).png -> SLUS-20454
+[MULTI-SERIAL SKIPPED] Enter the Matrix (USA) (v2.00).png -> SLUS-20454
+[MULTI-SERIAL SKIPPED] Evergrace (Europe) (En,Fr,De,Es,It).png -> SLES-50050
+[NO MATCH] F - Fanatic (Japan).png
+[MULTI-SERIAL SKIPPED] Fallout - Brotherhood of Steel (Europe) (En,Es,It).png -> SLES-51526
+[NO MATCH] Fate-stay night - Realta Nua (Japan).png
+[MULTI-SERIAL SKIPPED] FIFA 06 (Europe).png -> SLES-53529
+[NO MATCH] FIFA Street (USA).png
+[NO MATCH] Final Fantasy X (USA).png
+[NO MATCH] Final Fantasy XI - Online (USA).png
+[NO MATCH] Final Fantasy XII (Japan).png
+[NO MATCH] Final Fantasy XII International - Zodiac Job System (Japan).png
+[NO MATCH] Fullmetal Alchemist and the Broken Angel (USA).png
+[NO MATCH] Gacha Mecha Stadium - Saru Battle (Japan).png
+[MULTI-SERIAL SKIPPED] Getaway, The (Europe) (En,Fr,De,Es,It) (v1.03).png -> SCES-51159
+[MULTI-SERIAL SKIPPED] Getaway, The (Europe) (En,Fr,De,Es,It) (v2.03).png -> SCES-51159
+[MULTI-SERIAL SKIPPED] Getaway, The (Europe) (En,Fr,De,Es,It) (v3.00).png -> SCES-51159
+[MULTI-SERIAL SKIPPED] Getaway, The - Black Monday (Europe) (En,Pt,Ru,El) (v1.01).png -> SCES-52948
+[MULTI-SERIAL SKIPPED] Getaway, The - Black Monday (Europe) (En,Pt,Ru,El) (v2.00).png -> SCES-52948
+[MULTI-SERIAL SKIPPED] Gradius III and IV (Europe).png -> SLES-50038
+[MULTI-SERIAL SKIPPED] Gran Turismo 3 - A-Spec (Europe, Australia) (En,Fr,De,Es,It) (v1.00).png -> SCES-50294
+[MULTI-SERIAL SKIPPED] Gran Turismo 3 - A-Spec (Europe, Australia) (En,Fr,De,Es,It) (v2.00).png -> SCES-50294
+[NO MATCH] Gran Turismo 3 - A-Spec (Japan).png
+[NO MATCH] Gran Turismo 4 (Europe) (BMW 1 Series Virtual Drive).png
+[MULTI-SERIAL SKIPPED] Gran Turismo 4 (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-51719
+[NO MATCH] Gran Turismo 4 (USA) (v1.01).png
+[NO MATCH] Gran Turismo 4 (USA).png
+[MULTI-SERIAL SKIPPED] Grand Theft Auto - San Andreas (USA) (v1.03).png -> SLUS-20946
+[NO MATCH] Grand Theft Auto - San Andreas (USA) (v3.00).png
+[MULTI-SERIAL SKIPPED] Grand Theft Auto - Vice City (USA) (v1.40).png -> SLUS-20552
+[MULTI-SERIAL SKIPPED] Grand Theft Auto - Vice City (USA) (v2.01).png -> SLUS-20552
+[NO MATCH] Grand Theft Auto - Vice City (USA) (v3.00).png
+[MULTI-SERIAL SKIPPED] Grand Theft Auto - Vice City (USA) (v4.00).png -> SLUS-20552
+[MULTI-SERIAL SKIPPED] Grand Theft Auto III (Europe) (En,Fr,De,Es,It) (v1.40).png -> SLES-50330
+[MULTI-SERIAL SKIPPED] Grand Theft Auto III (Europe, Australia) (En,Fr,De,Es,It) (v1.60).png -> SLES-50330
+[NO MATCH] Grand Theft Auto III (USA).png
+[NO MATCH] Grandia III (Japan).png
+[NO MATCH] Grandia III (USA).png
+[NO MATCH] Guitar Hero - Metallica (USA).png
+[NO MATCH] Gunslinger Girl. Volume.I (Japan).png
+[NO MATCH] Gunslinger Girl. Volume.II (Japan).png
+[NO MATCH] Gunslinger Girl. Volume.III (Japan).png
+[MULTI-SERIAL SKIPPED] Hanakisou (Japan) (v1.01).png -> SLPM-66471
+[MULTI-SERIAL SKIPPED] Hanakisou (Japan) (v2.01).png -> SLPM-66471
+[NO MATCH] Hitman - Blood Money (Europe).png
+[NO MATCH] Hoshi-iro no Okurimono (Japan) (Shokai Special Genteiban).png
+[NO MATCH] Hoshi-iro no Okurimono (Japan).png
+[MULTI-SERIAL SKIPPED] Hot Shots Golf 3 (USA) (v1.01).png -> SCUS-97130
+[MULTI-SERIAL SKIPPED] Hot Shots Golf 3 (USA) (v2.00).png -> SCUS-97130
+[NO MATCH] I Love Baseball - Pro Yakyuu o Koyonaku Ai suru Hitotachi e (Japan).png
+[MULTI-SERIAL SKIPPED] Ico (Europe) (En,Fr,De,Es,It).png -> SCES-50760
+[NO MATCH] Incredible Hulk, The (USA).png
+[MULTI-SERIAL SKIPPED] Jak 3 (Europe, Australia) (En,Fr,De,Es,It,Pt,Ru).png -> SCES-52460
+[MULTI-SERIAL SKIPPED] Jak and Daxter - The Precursor Legacy (USA) (En,Fr,De,Es,It) (Rev 1).png -> SCUS-97124
+[MULTI-SERIAL SKIPPED] Jak and Daxter - The Precursor Legacy (USA) (En,Fr,De,Es,It).png -> SCUS-97124
+[MULTI-SERIAL SKIPPED] Jak II (USA) (En,Ja,Fr,De,Es,It,Ko) (v1.00).png -> SCUS-97265
+[MULTI-SERIAL SKIPPED] Jak II (USA) (En,Ja,Fr,De,Es,It,Ko) (v2.01).png -> SCUS-97265
+[MULTI-SERIAL SKIPPED] Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru) (v1.00).png -> SCUS-97429
+[MULTI-SERIAL SKIPPED] Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru) (v2.00).png -> SCUS-97429
+[NO MATCH] Juiced 2 - Hot Import Nights (USA).png
+[MULTI-SERIAL SKIPPED] Katamari Damacy (Japan) (v1.03).png -> SLPS-25360
+[MULTI-SERIAL SKIPPED] Katamari Damacy (Japan) (v2.00).png -> SLPS-25360
+[NO MATCH] Kaze-iro Surf (Japan).png
+[NO MATCH] Kengou 2 (Japan).png
+[NO MATCH] Kessen (Japan) (Super Value Set).png
+[NO MATCH] Kessen (Japan).png
+[NO MATCH] kill.switch (Europe) (En,Fr,De,Es,It).png
+[NO MATCH] kill.switch (USA).png
+[NO MATCH] King of Colosseum - Shin Nippon x Zen Nippon x Pancrase Disc (Japan).png
+[NO MATCH] King of Fighters 2002, The (Japan).png
+[NO MATCH] King of Fighters 2002, The - Unlimited Match (Japan).png
+[MULTI-SERIAL SKIPPED] Kingdom Hearts II (USA).png -> SLUS-21005
+[MULTI-SERIAL SKIPPED] Klonoa 2 - Lunatea's Veil (Europe) (En,Fr,De,Es,It).png -> SCES-50354
+[MULTI-SERIAL SKIPPED] Klonoa 2 - Lunatea's Veil (USA).png -> SLUS-20151
+[NO MATCH] KOF - Maximum Impact Regulation A (Japan).png
+[MULTI-SERIAL SKIPPED] Kuma Uta (Japan) (v1.01).png -> SCPS-11031
+[MULTI-SERIAL SKIPPED] Kuma Uta (Japan) (v2.01).png -> SCPS-11031
+[NO MATCH] LEGO Island Xtreme Stunts (USA).png
+[MULTI-SERIAL SKIPPED] LEGO Star Wars - The Video Game (USA) (v1.01).png -> SLUS-21083
+[MULTI-SERIAL SKIPPED] LEGO Star Wars - The Video Game (USA) (v2.00).png -> SLUS-21083
+[NO MATCH] Lord of the Rings, The - Futatsu no Tou (Japan).png
+[NO MATCH] Lord of the Rings, The - Nakatsu Kuni Daisanki (Japan).png
+[MULTI-SERIAL SKIPPED] Lord of the Rings, The - The Fellowship of the Ring (USA).png -> SLUS-20520
+[NO MATCH] Mana-Khemia - Gakuen no Renkinjutsushi-tachi (Japan) (Gust Best Price).png
+[NO MATCH] Mana-Khemia - Gakuen no Renkinjutsushi-tachi (Japan).png
+[NO MATCH] Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushi-tachi (Japan) (Gust Best Price).png
+[NO MATCH] Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushi-tachi (Japan).png
+[MULTI-SERIAL SKIPPED] Marvel vs. Capcom 2 - New Age of Heroes (Japan).png -> SLPM-62227
+[MULTI-SERIAL SKIPPED] Maximo - Ghosts to Glory (USA).png -> SLUS-20017
+[MULTI-SERIAL SKIPPED] MDK2 - Armageddon (USA).png -> SLUS-20105
+[NO MATCH] Medal of Honor - Frontline (Europe) (En,Es,It).png
+[NO MATCH] Mercenaries 2 - World in Flames (Europe).png
+[MULTI-SERIAL SKIPPED] Mermaid Prism (Japan).png -> SLPS-25696
+[NO MATCH] Metal Gear Solid 3 - Subsistence (Japan) (Disc 3) (Existence).png
+[NO MATCH] Metal Gear Solid 3 - Subsistence (Japan).png
+[NO MATCH] Metal Gear Solid 3 - Subsistence (USA) (En,Es).png
+[NO MATCH] Metal Slug 4 (Europe).png
+[NO MATCH] Metal Slug 5 (Europe).png
+[MULTI-SERIAL SKIPPED] Midnight Club - Street Racing (Europe).png -> SLES-50054
+[MULTI-SERIAL SKIPPED] Midnight Club 3 - DUB Edition (USA) (v1.04).png -> SLUS-21029
+[MULTI-SERIAL SKIPPED] Midnight Club 3 - DUB Edition (USA) (v2.00).png -> SLUS-21029
+[NO MATCH] Minna no Golf 4 (Japan) (v1.04).png
+[MULTI-SERIAL SKIPPED] MLB 07 - The Show (USA) (v1.00).png -> SCUS-97556
+[MULTI-SERIAL SKIPPED] MLB 07 - The Show (USA) (v2.00).png -> SCUS-97556
+[NO MATCH] Moekan - Moe Musume Shima e Youkoso (Japan).png
+[NO MATCH] My Merry May with be (Japan).png
+[NO MATCH] Namco 50 Anniversary - namCollection (Japan).png
+[MULTI-SERIAL SKIPPED] Namco Museum (USA).png -> SLUS-20273
+[MULTI-SERIAL SKIPPED] Namco Museum 50th Anniversary (USA).png -> SLUS-20273
+[NO MATCH] Natsu-iro no Sunadokei (Japan).png
+[NO MATCH] Natural 2 - Duo - Sakura-iro no Kisetsu (Japan).png
+[NO MATCH] Need for Speed - Carbon (USA).png
+[MULTI-SERIAL SKIPPED] Need for Speed - Most Wanted (USA) (v1.01).png -> SLUS-21267
+[NO MATCH] Need for Speed - Most Wanted (USA) (v2.00).png
+[NO MATCH] Need for Speed - ProStreet (USA).png
+[NO MATCH] Need for Speed - Undercover (USA) (En,Fr,Es).png
+[NO MATCH] Need for Speed - Underground (USA).png
+[MULTI-SERIAL SKIPPED] Need for Speed - Underground 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da) (v1.01).png -> SLES-52725
+[MULTI-SERIAL SKIPPED] Need for Speed - Underground 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da) (v2.00).png -> SLES-52725
+[NO MATCH] Need for Speed - Underground 2 (USA).png
+[MULTI-SERIAL SKIPPED] NeoGeo Battle Coliseum (Europe, Australia).png -> SLES-54395
+[MULTI-SERIAL SKIPPED] Netchuu! Pro Yakyuu 2002 (Japan) (v1.01).png -> SLPS-20190
+[MULTI-SERIAL SKIPPED] Netchuu! Pro Yakyuu 2002 (Japan) (v2.01).png -> SLPS-20190
+[NO MATCH] Ninja Assault (Japan).png
+[NO MATCH] ObsCure (Europe) (De,Es).png
+[NO MATCH] ObsCure (Europe) (Fr,It).png
+[NO MATCH] ObsCure (Europe).png
+[NO MATCH] ObsCure (Russia).png
+[NO MATCH] ObsCure (USA) (En,Fr,Es).png
+[NO MATCH] ObsCure - The Aftermath (USA) (En,Fr,Es).png
+[NO MATCH] ObsCure II (Europe) (En,Fr,De,Es,It).png
+[MULTI-SERIAL SKIPPED] Onimusha 2 - Samurai's Destiny (Europe) (En,Fr,De,Es,It).png -> SLES-50978
+[MULTI-SERIAL SKIPPED] OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It).png -> SLES-53998
+[MULTI-SERIAL SKIPPED] Pac-Man World 2 (USA) (v1.00).png -> SLUS-20224
+[MULTI-SERIAL SKIPPED] Pac-Man World 2 (USA) (v2.00).png -> SLUS-20224
+[MULTI-SERIAL SKIPPED] Phantom Brave - 2-shuume Hajimemashita. (Japan) (v1.00).png -> SLPS-73108
+[MULTI-SERIAL SKIPPED] Phantom Brave - 2-shuume Hajimemashita. (Japan) (v2.00).png -> SLPS-73108
+[MULTI-SERIAL SKIPPED] Pro Yakyuu Spirits 3 (Japan) (v1.02).png -> SLPM-66364
+[MULTI-SERIAL SKIPPED] Pro Yakyuu Spirits 3 (Japan) (v2.00).png -> SLPM-66364
+[MULTI-SERIAL SKIPPED] Pro Yakyuu Spirits 5 (Japan) (v1.03).png -> SLPM-66970
+[MULTI-SERIAL SKIPPED] Pro Yakyuu Spirits 5 (Japan) (v2.00).png -> SLPM-66970
+[MULTI-SERIAL SKIPPED] Project Zero II - Crimson Butterfly (Europe) (En,Fr,De,Es,It).png -> SLES-52384
+[NO MATCH] RAhXEPhON - Soukyuu Gensoukyoku (Japan).png
+[NO MATCH] Ratchet & Clank (Europe) (En,Fr,De,Es,It) (v2.00).png
+[MULTI-SERIAL SKIPPED] Ratchet & Clank - Going Commando (USA) (v1.01).png -> SCUS-97268
+[MULTI-SERIAL SKIPPED] Ratchet & Clank - Going Commando (USA) (v2.00).png -> SCUS-97268
+[NO MATCH] Ratchet & Clank 2 - Gagaga! Ginga no Commando-ssu (Japan, Asia).png
+[MULTI-SERIAL SKIPPED] Ratchet & Clank 3 (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-52456
+[MULTI-SERIAL SKIPPED] Resident Evil - Outbreak (USA) (v1.01).png -> SLUS-20765
+[MULTI-SERIAL SKIPPED] Resident Evil - Outbreak (USA) (v2.00).png -> SLUS-20765
+[NO MATCH] Ryuu ga Gotoku 2 (Japan).png
+[NO MATCH] Sakura Taisen 3 - Paris wa Moeteiru ka (Japan).png
+[NO MATCH] Sakura Wars - So Long, My Love (USA).png
+[NO MATCH] Samurai Spirits Zero (Japan).png
+[NO MATCH] Saru! Get You! 3 (Japan).png
+[NO MATCH] Seiken Densetsu 4 (Japan).png
+[NO MATCH] Sengoku Basara 2 - Heroes (Japan).png
+[NO MATCH] Sengoku Basara X (Japan).png
+[NO MATCH] Sengoku Musou 2 - Empires (Japan).png
+[NO MATCH] Shadow Hearts - Covenant (USA).png
+[NO MATCH] Shadow Hearts II (Europe, Australia) (En,Fr,De).png
+[NO MATCH] Shadow Hearts II (Japan) (Gentei DX Pack).png
+[NO MATCH] Shadow Hearts II (Japan).png
+[NO MATCH] Shadow Hearts II - Director's Cut (Japan).png
+[MULTI-SERIAL SKIPPED] Shadow of the Colossus (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-53326
+[NO MATCH] Shadow the Hedgehog (Europe, Australia) (En,Fr,De,Es,It).png
+[NO MATCH] Shinobi (USA) (En,Ja).png
+[NO MATCH] Shoujo Yoshitsune-den (Japan) (Tokubetsu-ban).png
+[NO MATCH] Shoujo Yoshitsune-den Ni - Toki o Koeru Chigiri (Japan) (Tokubetsu-ban).png
+[NO MATCH] Shutokou Battle 01 (Japan).png
+[MULTI-SERIAL SKIPPED] Silent Hill 2 (USA) (En,Ja) (v1.20).png -> SLUS-20228
+[MULTI-SERIAL SKIPPED] Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01).png -> SLUS-20228
+[MULTI-SERIAL SKIPPED] Silent Scope (Europe) (En,Fr,De,Es,It).png -> SLES-50037
+[NO MATCH] Simple 2000 Series Vol. 101 - The OneeChampon - The Nee-chan 2 Tokubetsu-hen (Japan).png
+[NO MATCH] Simple 2000 Series Vol. 80 - The OneeChamploo - The Nee-chan Tokubetsu-hen (Japan).png
+[NO MATCH] Simpsons Game, The (USA).png
+[MULTI-SERIAL SKIPPED] Simpsons, The - Road Rage (USA).png -> SLUS-20305
+[MULTI-SERIAL SKIPPED] Sims 2, The (USA).png -> SLUS-21265
+[NO MATCH] Sims 2, The - Castaway (USA).png
+[MULTI-SERIAL SKIPPED] Sims 2, The - Pets (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl) (v1.00).png -> SLES-54347
+[MULTI-SERIAL SKIPPED] Sims 2, The - Pets (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl) (v2.00).png -> SLES-54347
+[MULTI-SERIAL SKIPPED] SNK vs. Capcom - SVC Chaos (Europe).png -> SLES-53065
+[MULTI-SERIAL SKIPPED] SOCOM - U.S. Navy SEALs (USA) (v1.00).png -> SCUS-97134
+[MULTI-SERIAL SKIPPED] SOCOM - U.S. Navy SEALs (USA) (v2.01).png -> SCUS-97134
+[NO MATCH] Sonic Heroes (Japan) (En,Ja,Fr,De,Es,It).png
+[MULTI-SERIAL SKIPPED] Sonic Riders - Zero Gravity (USA) (En,Ja,Fr,De,Es,It).png -> SLUS-21642
+[MULTI-SERIAL SKIPPED] Soulcalibur II (USA).png -> SLUS-20643
+[MULTI-SERIAL SKIPPED] Spider-Man (USA) (v1.00).png -> SLUS-20336
+[MULTI-SERIAL SKIPPED] Spider-Man (USA) (v2.01).png -> SLUS-20336
+[MULTI-SERIAL SKIPPED] SSX 3 (Europe) (En,Fr,De,Es) (v1.00).png -> SLES-51697
+[MULTI-SERIAL SKIPPED] SSX 3 (Europe) (En,Fr,De,Es) (v2.00).png -> SLES-51697
+[NO MATCH] Star Ocean - Till the End of Time (USA).png
+[MULTI-SERIAL SKIPPED] Star Wars - Battlefront II (USA) (v1.01).png -> SLUS-21240
+[MULTI-SERIAL SKIPPED] Star Wars - Battlefront II (USA) (v2.00).png -> SLUS-21240
+[MULTI-SERIAL SKIPPED] Star Wars - Battlefront II (USA) (v2.01).png -> SLUS-21240
+[NO MATCH] Street Fighter Alpha Anthology (Europe).png
+[NO MATCH] Suigetsu - Mayoi Gokoro (Japan).png
+[NO MATCH] Sumomomo Momomo - Chijou Saikyou no Yome - Keishou Shimasho! Koi no Hanamuko Soudatsu-sen!! (Japan).png
+[MULTI-SERIAL SKIPPED] Super Dragon Ball Z (Europe).png -> SLES-54161
+[MULTI-SERIAL SKIPPED] Syphon Filter - Dark Mirror (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-54794
+[NO MATCH] Taiko no Tatsujin - Waku Waku Anime Matsuri (Japan).png
+[NO MATCH] Taisen Hot Gimmick - Axes-jong (Japan) - Copy.png
+[NO MATCH] Tales of Destiny (Japan).png
+[MULTI-SERIAL SKIPPED] Tekken 4 (Europe) (En,Fr,De,Es,It) (v1.00).png -> SCES-50878
+[MULTI-SERIAL SKIPPED] Tekken 4 (Europe, Australia) (En,Fr,De,Es,It) (v2.00).png -> SCES-50878
+[MULTI-SERIAL SKIPPED] Tekken Tag Tournament (Europe) (En,Fr,De,Es,It) (v1.00).png -> SCES-50001
+[MULTI-SERIAL SKIPPED] Tekken Tag Tournament (Europe) (En,Fr,De,Es,It) (v2.00).png -> SCES-50001
+[MULTI-SERIAL SKIPPED] Tekken Tag Tournament (Japan) (v1.20).png -> SLPS-20015
+[MULTI-SERIAL SKIPPED] Tekken Tag Tournament (Japan) (v2.00).png -> SLPS-20015
+[NO MATCH] Tekken Tag Tournament (Japan).png
+[MULTI-SERIAL SKIPPED] Tekken Tag Tournament (USA) (v1.00).png -> SLUS-20001
+[MULTI-SERIAL SKIPPED] Tekken Tag Tournament (USA) (v2.00).png -> SLUS-20001
+[NO MATCH] Tekken Tag Tournament (USA).png
+[MULTI-SERIAL SKIPPED] Tekken's Nina Williams in - Death by Degrees (Europe) (En,De).png -> SCES-53054
+[MULTI-SERIAL SKIPPED] Tekken's Nina Williams in - Death by Degrees (Europe, Australia) (En,Es).png -> SCES-52586
+[MULTI-SERIAL SKIPPED] Test Drive (USA) (v1.00).png -> SLUS-20213
+[MULTI-SERIAL SKIPPED] Test Drive (USA) (v2.00).png -> SLUS-20213
+[NO MATCH] Tetris Worlds (Europe) (En,Fr,De).png
+[MULTI-SERIAL SKIPPED] Tiger Woods PGA Tour 2004 (Europe) (v1.00).png -> SLES-51887
+[MULTI-SERIAL SKIPPED] Tiger Woods PGA Tour 2004 (Europe) (v2.00).png -> SLES-51887
+[MULTI-SERIAL SKIPPED] Time Crisis 3 (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-51844
+[MULTI-SERIAL SKIPPED] TimeSplitters (USA) (v1.10).png -> SLUS-20090
+[MULTI-SERIAL SKIPPED] TimeSplitters (USA) (v2.00).png -> SLUS-20090
+[MULTI-SERIAL SKIPPED] TimeSplitters - Future Perfect (Europe) (En,Fr,De,Es,It).png -> SLES-52993
+[MULTI-SERIAL SKIPPED] TimeSplitters - Future Perfect (USA).png -> SLUS-21148
+[MULTI-SERIAL SKIPPED] TimeSplitters 2 (Europe) (En,Fr,De,Es,It).png -> SLES-50877
+[NO MATCH] TOCA Race Driver 3 - The Ultimate Racing Simulator (USA).png
+[NO MATCH] Tokyo Bus Guide - Kyou kara Kimi mo Untenshu (Japan).png
+[NO MATCH] Tokyo Xtreme Racer - Drift (USA).png
+[NO MATCH] Tokyo Xtreme Racer 3 (USA).png
+[MULTI-SERIAL SKIPPED] Tom Clancy's Ghost Recon 2 (Europe) (En,Fr,De,Es,It).png -> SLES-52646
+[MULTI-SERIAL SKIPPED] Tom Clancy's Rainbow Six - Lockdown (USA).png -> SLUS-21144
+[MULTI-SERIAL SKIPPED] Tony Hawk's American Wasteland (USA) (Collector's Edition).png -> SLUS-21208
+[MULTI-SERIAL SKIPPED] Tony Hawk's American Wasteland (USA).png -> SLUS-21208
+[MULTI-SERIAL SKIPPED] Tony Hawk's Pro Skater 3 (USA) (Rev 1).png -> SLUS-20013
+[MULTI-SERIAL SKIPPED] Tony Hawk's Pro Skater 3 (USA).png -> SLUS-20013
+[MULTI-SERIAL SKIPPED] Tony Hawk's Pro Skater 4 (USA) (v1.02).png -> SLUS-20504
+[MULTI-SERIAL SKIPPED] Tony Hawk's Pro Skater 4 (USA) (v2.01).png -> SLUS-20504
+[NO MATCH] Tourist Trophy (USA).png
+[MULTI-SERIAL SKIPPED] Transformers (Europe) (En,Fr,De,Es,It).png -> SLES-52388
+[NO MATCH] True Love Story - Summer Days, and Yet ... (Japan).png
+[MULTI-SERIAL SKIPPED] Turok - Evolution (USA).png -> SLUS-20333
+[NO MATCH] Twisted Metal - Head-On - Extra Twisted Edition (USA).png
+[NO MATCH] TY the Tasmanian Tiger (USA) (En,Fr,De,Es).png
+[NO MATCH] TY the Tasmanian Tiger - Night of the Quinkan (USA).png
+[NO MATCH] TY the Tasmanian Tiger 2 - Bush Rescue (USA).png
+[MULTI-SERIAL SKIPPED] Urbz, The - Sims in the City (USA).png -> SLUS-21066
+[NO MATCH] V-Rally 3 (Japan) (En,Ja,Fr,De,Es,It) (v1.02).png
+[NO MATCH] Valkyrie Profile 2 - Silmeria (Japan).png
+[MULTI-SERIAL SKIPPED] Viewtiful Joe (Europe, Australia) (En,Fr,De,Es,It).png -> SLES-52678
+[MULTI-SERIAL SKIPPED] Viewtiful Joe (USA).png -> SLUS-20951
+[NO MATCH] Vitamin X - We are Super Supriment Boys (Japan) (Genteiban).png
+[NO MATCH] Vitamin X - We are Super Supriment Boys (Japan).png
+[NO MATCH] Vitamin Z - Welcome Our New Supplement Boys (Japan) (Genteiban).png
+[NO MATCH] Vitamin Z - Welcome Our New Supplement Boys (Japan).png
+[MULTI-SERIAL SKIPPED] Way of the Samurai 2 (Europe) (En,Fr,De).png -> SLES-52275
+[MULTI-SERIAL SKIPPED] We Love Katamari (USA).png -> SLUS-21230
+[NO MATCH] Wild Arms - Advanced 3rd (Japan, Asia).png
+[NO MATCH] WipEout Fusion (USA).png
+[NO MATCH] WipEout Pulse (Europe) (En,Fr,De,Es,It).png
+[MULTI-SERIAL SKIPPED] WRC - Rally Evolved (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (v1.01).png -> SCES-53247
+[MULTI-SERIAL SKIPPED] WRC - Rally Evolved (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00).png -> SCES-53247
+[NO MATCH] WRC 3 - The Official Game of the FIA World Rally Championship (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi).png
+[MULTI-SERIAL SKIPPED] WRC 4 - The Official Game of the FIA World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (v1.01).png -> SCES-52389
+[MULTI-SERIAL SKIPPED] WRC 4 - The Official Game of the FIA World Rally Championship (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00).png -> SCES-52389
+[MULTI-SERIAL SKIPPED] WRC 4 - The Official Game of the FIA World Rally Championship (Japan) (v1.02).png -> SLPM-65975
+[MULTI-SERIAL SKIPPED] WRC 4 - The Official Game of the FIA World Rally Championship (Japan) (v2.00).png -> SLPM-65975
+[MULTI-SERIAL SKIPPED] WWE SmackDown vs. Raw 2007 (USA) (v1.01).png -> SLUS-21427
+[MULTI-SERIAL SKIPPED] WWE SmackDown vs. Raw 2007 (USA) (v2.01).png -> SLUS-21427
+[NO MATCH] WWE SmackDown vs. Raw 2007 (USA).png
+[NO MATCH] Xenosaga Episode II - Jenseits von Gut und Boese (USA).png
+[NO MATCH] Xenosaga Episode III - Also sprach Zarathustra (USA).png
+[MULTI-SERIAL SKIPPED] XGIII - Extreme G Racing (Europe) (En,Fr,De,Es) (v1.02).png -> SLES-50210
+[MULTI-SERIAL SKIPPED] XGIII - Extreme G Racing (Europe) (En,Fr,De,Es) (v2.00).png -> SLES-50210
+[NO MATCH] Yoshitsune Eiyuuden - The Story of Hero Yoshitsune (Japan, Asia).png
+[NO MATCH] Yoshitsune Eiyuuden Shura - The Story of Hero Yoshitsune Shura (Asia).png
+[NO MATCH] Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan).png
