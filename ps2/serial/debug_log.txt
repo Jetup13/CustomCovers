@@ -166,204 +166,72 @@
   Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan).png
 
 ==================================================
-  MATCHING SERIAL ISSUES
+  DUPLICATE SERIAL (already copied by another image)
 ==================================================
-  [MULTI-SERIAL SKIPPED] 7 (Seven) - Molmorth no Kiheitai (Japan) (v1.20).png -> SLPS-25025
-  [MULTI-SERIAL SKIPPED] 7 (Seven) - Molmorth no Kiheitai (Japan) (v2.00).png -> SLPS-25025
-  [MULTI-SERIAL SKIPPED] Ace Combat - Distant Thunder (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-50410
-  [MULTI-SERIAL SKIPPED] Ace Combat - The Belkan War (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-54041
-  [MULTI-SERIAL SKIPPED] Ape Escape 3 (Europe) (En,Fr,De,Es,It).png -> SCES-53642
-  [MULTI-SERIAL SKIPPED] Arc - Twilight of the Spirits (Europe) (En,Fr,De,Es,It).png -> SCES-51910
-  [MULTI-SERIAL SKIPPED] Armored Core 2 (Europe).png -> SLES-50079
-  [MULTI-SERIAL SKIPPED] Atelier Iris - Eternal Mana (Europe).png -> SLES-53764
-  [MULTI-SERIAL SKIPPED] ATV Offroad Fury (USA) (v1.00).png -> SCUS-97104
-  [MULTI-SERIAL SKIPPED] ATV Offroad Fury (USA) (v3.01).png -> SCUS-97104
-  [MULTI-SERIAL SKIPPED] ATV Offroad Fury 2 (USA) (v1.00).png -> SCUS-97211
-  [MULTI-SERIAL SKIPPED] ATV Offroad Fury 2 (USA) (v2.00).png -> SCUS-97211
-  [MULTI-SERIAL SKIPPED] Batman - Vengeance (USA) (En,Fr) (Rev 1).png -> SLUS-20226
-  [MULTI-SERIAL SKIPPED] Batman - Vengeance (USA) (En,Fr).png -> SLUS-20226
-  [MULTI-SERIAL SKIPPED] Battlefield 2 - Modern Combat (Europe) (En,Es,Nl,Sv) (v1.00).png -> SLES-53729
-  [MULTI-SERIAL SKIPPED] Battlefield 2 - Modern Combat (Europe) (En,Es,Nl,Sv) (v2.01).png -> SLES-53729
-  [MULTI-SERIAL SKIPPED] Black (Europe) (En,Fr,De,Es,It).png -> SLES-53886
-  [MULTI-SERIAL SKIPPED] Bleach - Erabareshi Tamashii (Japan) (v1.00).png -> SCPS-15087
-  [MULTI-SERIAL SKIPPED] Bleach - Erabareshi Tamashii (Japan) (v2.00).png -> SCPS-15087
-  [MULTI-SERIAL SKIPPED] Bloody Roar 3 (Japan) (v1.02).png -> SLPM-62055
-  [MULTI-SERIAL SKIPPED] Bloody Roar 3 (Japan) (v2.01).png -> SLPM-62055
-  [MULTI-SERIAL SKIPPED] BMX XXX (USA).png -> SLUS-20415
-  [MULTI-SERIAL SKIPPED] Burnout 2 - Point of Impact (Europe, Australia) (En,Fr,De,Es,It).png -> SLES-51044
-  [MULTI-SERIAL SKIPPED] Call of Duty - Finest Hour (USA) (v1.04).png -> SLUS-20725
-  [MULTI-SERIAL SKIPPED] Call of Duty - Finest Hour (USA) (v2.02).png -> SLUS-20725
-  [MULTI-SERIAL SKIPPED] Call of Duty 2 - Big Red One (USA) (Collector's Edition).png -> SLUS-21228
-  [MULTI-SERIAL SKIPPED] Call of Duty 2 - Big Red One (USA).png -> SLUS-21228
-  [MULTI-SERIAL SKIPPED] Capcom Fighting Jam (Europe, Australia).png -> SLES-52854
-  [MULTI-SERIAL SKIPPED] Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan).png -> SLPM-65047
-  [MULTI-SERIAL SKIPPED] Crash Bandicoot - The Wrath of Cortex (USA) (v1.00).png -> SLUS-20238
-  [MULTI-SERIAL SKIPPED] Crash Bandicoot - The Wrath of Cortex (USA) (v1.01).png -> SLUS-20238
-  [MULTI-SERIAL SKIPPED] Crash Tag Team Racing (USA).png -> SLUS-21191
-  [MULTI-SERIAL SKIPPED] Crazy Taxi (Europe, Australia) (En,Fr,De,Es).png -> SLES-50215
-  [MULTI-SERIAL SKIPPED] Crazy Taxi (USA) (Greatest Hits).png -> SLUS-20202
-  [MULTI-SERIAL SKIPPED] Crazy Taxi (USA).png -> SLUS-20202
-  [MULTI-SERIAL SKIPPED] Crisis Zone (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-52530
-  [MULTI-SERIAL SKIPPED] Dancing Stage Fusion (Europe) (En,Fr,De,Es,It).png -> SLES-52598
-  [MULTI-SERIAL SKIPPED] Dark Cloud 2 (USA) (v1.00).png -> SCUS-97213
-  [MULTI-SERIAL SKIPPED] Dark Cloud 2 (USA) (v2.00).png -> SCUS-97213
-  [MULTI-SERIAL SKIPPED] Dead or Alive 2 (Europe) (En,Fr,De,Es,It).png -> SCES-50003
-  [MULTI-SERIAL SKIPPED] Dead to Rights (Europe) (En,Fr,Es,It).png -> SLES-51581
-  [MULTI-SERIAL SKIPPED] Def Jam - Fight for NY (Europe, Australia) (En,Fr).png -> SLES-52507
-  [MULTI-SERIAL SKIPPED] Devil May Cry (USA).png -> SLUS-20216
-  [MULTI-SERIAL SKIPPED] Devil May Cry 3 - Dante's Awakening (USA) (En,Ja) (Special Edition).png -> SLUS-20216
-  [MULTI-SERIAL SKIPPED] Dokapon the World (Japan) (v1.03).png -> SLPM-65750
-  [MULTI-SERIAL SKIPPED] Dokapon the World (Japan) (v2.00).png -> SLPM-65750
-  [MULTI-SERIAL SKIPPED] Dot Hack Part 1 - Infection (Europe) (En,Fr,De,Es,It).png -> SLES-52237
-  [MULTI-SERIAL SKIPPED] Dragon Ball Z - Budokai 3 (USA) (Greatest Hits).png -> SLUS-20998
-  [MULTI-SERIAL SKIPPED] Dragon Ball Z - Budokai 3 (USA).png -> SLUS-20998
-  [MULTI-SERIAL SKIPPED] Dragon Ball Z - Budokai Tenkaichi 2 (USA) (En,Ja).png -> SLUS-21441
-  [MULTI-SERIAL SKIPPED] Drakan - The Ancients' Gates (USA).png -> SCUS-97128
-  [MULTI-SERIAL SKIPPED] DreamWorks Madagascar (USA) (v1.01).png -> SLUS-21015
-  [MULTI-SERIAL SKIPPED] DreamWorks Madagascar (USA) (v2.01).png -> SLUS-21015
-  [MULTI-SERIAL SKIPPED] DreamWorks Madagascar (USA) (v3.01).png -> SLUS-21015
-  [MULTI-SERIAL SKIPPED] Ecco the Dolphin - Defender of the Future (Europe) (En,Fr,De,Es,It).png -> SCES-50499
-  [MULTI-SERIAL SKIPPED] Enter the Matrix (Europe) (En,Fr,De,Es,It) (v1.01).png -> SLES-51203
-  [MULTI-SERIAL SKIPPED] Enter the Matrix (Europe) (En,Fr,De,Es,It) (v2.00).png -> SLES-51203
-  [MULTI-SERIAL SKIPPED] Enter the Matrix (USA) (v1.01).png -> SLUS-20454
-  [MULTI-SERIAL SKIPPED] Enter the Matrix (USA) (v2.00).png -> SLUS-20454
-  [MULTI-SERIAL SKIPPED] Evergrace (Europe) (En,Fr,De,Es,It).png -> SLES-50050
-  [MULTI-SERIAL SKIPPED] Fallout - Brotherhood of Steel (Europe) (En,Es,It).png -> SLES-51526
-  [MULTI-SERIAL SKIPPED] FIFA 06 (Europe).png -> SLES-53529
-  [MULTI-SERIAL SKIPPED] Getaway, The (Europe) (En,Fr,De,Es,It) (v1.03).png -> SCES-51159
-  [MULTI-SERIAL SKIPPED] Getaway, The (Europe) (En,Fr,De,Es,It) (v2.03).png -> SCES-51159
-  [MULTI-SERIAL SKIPPED] Getaway, The (Europe) (En,Fr,De,Es,It) (v3.00).png -> SCES-51159
-  [MULTI-SERIAL SKIPPED] Getaway, The - Black Monday (Europe) (En,Pt,Ru,El) (v1.01).png -> SCES-52948
-  [MULTI-SERIAL SKIPPED] Getaway, The - Black Monday (Europe) (En,Pt,Ru,El) (v2.00).png -> SCES-52948
-  [MULTI-SERIAL SKIPPED] Gradius III and IV (Europe).png -> SLES-50038
-  [MULTI-SERIAL SKIPPED] Gran Turismo 3 - A-Spec (Europe, Australia) (En,Fr,De,Es,It) (v1.00).png -> SCES-50294
-  [MULTI-SERIAL SKIPPED] Gran Turismo 3 - A-Spec (Europe, Australia) (En,Fr,De,Es,It) (v2.00).png -> SCES-50294
-  [MULTI-SERIAL SKIPPED] Gran Turismo 4 (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-51719
-  [MULTI-SERIAL SKIPPED] Grand Theft Auto - San Andreas (USA) (v1.03).png -> SLUS-20946
-  [MULTI-SERIAL SKIPPED] Grand Theft Auto - Vice City (USA) (v1.40).png -> SLUS-20552
-  [MULTI-SERIAL SKIPPED] Grand Theft Auto - Vice City (USA) (v2.01).png -> SLUS-20552
-  [MULTI-SERIAL SKIPPED] Grand Theft Auto - Vice City (USA) (v4.00).png -> SLUS-20552
-  [MULTI-SERIAL SKIPPED] Grand Theft Auto III (Europe) (En,Fr,De,Es,It) (v1.40).png -> SLES-50330
-  [MULTI-SERIAL SKIPPED] Grand Theft Auto III (Europe, Australia) (En,Fr,De,Es,It) (v1.60).png -> SLES-50330
-  [MULTI-SERIAL SKIPPED] Hanakisou (Japan) (v1.01).png -> SLPM-66471
-  [MULTI-SERIAL SKIPPED] Hanakisou (Japan) (v2.01).png -> SLPM-66471
-  [MULTI-SERIAL SKIPPED] Hot Shots Golf 3 (USA) (v1.01).png -> SCUS-97130
-  [MULTI-SERIAL SKIPPED] Hot Shots Golf 3 (USA) (v2.00).png -> SCUS-97130
-  [MULTI-SERIAL SKIPPED] Ico (Europe) (En,Fr,De,Es,It).png -> SCES-50760
-  [MULTI-SERIAL SKIPPED] Jak 3 (Europe, Australia) (En,Fr,De,Es,It,Pt,Ru).png -> SCES-52460
-  [MULTI-SERIAL SKIPPED] Jak and Daxter - The Precursor Legacy (USA) (En,Fr,De,Es,It) (Rev 1).png -> SCUS-97124
-  [MULTI-SERIAL SKIPPED] Jak and Daxter - The Precursor Legacy (USA) (En,Fr,De,Es,It).png -> SCUS-97124
-  [MULTI-SERIAL SKIPPED] Jak II (USA) (En,Ja,Fr,De,Es,It,Ko) (v1.00).png -> SCUS-97265
-  [MULTI-SERIAL SKIPPED] Jak II (USA) (En,Ja,Fr,De,Es,It,Ko) (v2.01).png -> SCUS-97265
-  [MULTI-SERIAL SKIPPED] Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru) (v1.00).png -> SCUS-97429
-  [MULTI-SERIAL SKIPPED] Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru) (v2.00).png -> SCUS-97429
-  [MULTI-SERIAL SKIPPED] Katamari Damacy (Japan) (v1.03).png -> SLPS-25360
-  [MULTI-SERIAL SKIPPED] Katamari Damacy (Japan) (v2.00).png -> SLPS-25360
-  [MULTI-SERIAL SKIPPED] Kingdom Hearts II (USA).png -> SLUS-21005
-  [MULTI-SERIAL SKIPPED] Klonoa 2 - Lunatea's Veil (Europe) (En,Fr,De,Es,It).png -> SCES-50354
-  [MULTI-SERIAL SKIPPED] Klonoa 2 - Lunatea's Veil (USA).png -> SLUS-20151
-  [MULTI-SERIAL SKIPPED] Kuma Uta (Japan) (v1.01).png -> SCPS-11031
-  [MULTI-SERIAL SKIPPED] Kuma Uta (Japan) (v2.01).png -> SCPS-11031
-  [MULTI-SERIAL SKIPPED] LEGO Star Wars - The Video Game (USA) (v1.01).png -> SLUS-21083
-  [MULTI-SERIAL SKIPPED] LEGO Star Wars - The Video Game (USA) (v2.00).png -> SLUS-21083
-  [MULTI-SERIAL SKIPPED] Lord of the Rings, The - The Fellowship of the Ring (USA).png -> SLUS-20520
-  [MULTI-SERIAL SKIPPED] Marvel vs. Capcom 2 - New Age of Heroes (Japan).png -> SLPM-62227
-  [MULTI-SERIAL SKIPPED] Maximo - Ghosts to Glory (USA).png -> SLUS-20017
-  [MULTI-SERIAL SKIPPED] MDK2 - Armageddon (USA).png -> SLUS-20105
-  [MULTI-SERIAL SKIPPED] Mermaid Prism (Japan).png -> SLPS-25696
-  [MULTI-SERIAL SKIPPED] Midnight Club - Street Racing (Europe).png -> SLES-50054
-  [MULTI-SERIAL SKIPPED] Midnight Club 3 - DUB Edition (USA) (v1.04).png -> SLUS-21029
-  [MULTI-SERIAL SKIPPED] Midnight Club 3 - DUB Edition (USA) (v2.00).png -> SLUS-21029
-  [MULTI-SERIAL SKIPPED] MLB 07 - The Show (USA) (v1.00).png -> SCUS-97556
-  [MULTI-SERIAL SKIPPED] MLB 07 - The Show (USA) (v2.00).png -> SCUS-97556
-  [MULTI-SERIAL SKIPPED] Namco Museum (USA).png -> SLUS-20273
-  [MULTI-SERIAL SKIPPED] Namco Museum 50th Anniversary (USA).png -> SLUS-20273
-  [MULTI-SERIAL SKIPPED] Need for Speed - Most Wanted (USA) (v1.01).png -> SLUS-21267
-  [MULTI-SERIAL SKIPPED] Need for Speed - Underground 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da) (v1.01).png -> SLES-52725
-  [MULTI-SERIAL SKIPPED] Need for Speed - Underground 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da) (v2.00).png -> SLES-52725
-  [MULTI-SERIAL SKIPPED] NeoGeo Battle Coliseum (Europe, Australia).png -> SLES-54395
-  [MULTI-SERIAL SKIPPED] Netchuu! Pro Yakyuu 2002 (Japan) (v1.01).png -> SLPS-20190
-  [MULTI-SERIAL SKIPPED] Netchuu! Pro Yakyuu 2002 (Japan) (v2.01).png -> SLPS-20190
-  [MULTI-SERIAL SKIPPED] Onimusha 2 - Samurai's Destiny (Europe) (En,Fr,De,Es,It).png -> SLES-50978
-  [MULTI-SERIAL SKIPPED] OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It).png -> SLES-53998
-  [MULTI-SERIAL SKIPPED] Pac-Man World 2 (USA) (v1.00).png -> SLUS-20224
-  [MULTI-SERIAL SKIPPED] Pac-Man World 2 (USA) (v2.00).png -> SLUS-20224
-  [MULTI-SERIAL SKIPPED] Phantom Brave - 2-shuume Hajimemashita. (Japan) (v1.00).png -> SLPS-73108
-  [MULTI-SERIAL SKIPPED] Phantom Brave - 2-shuume Hajimemashita. (Japan) (v2.00).png -> SLPS-73108
-  [MULTI-SERIAL SKIPPED] Pro Yakyuu Spirits 3 (Japan) (v1.02).png -> SLPM-66364
-  [MULTI-SERIAL SKIPPED] Pro Yakyuu Spirits 3 (Japan) (v2.00).png -> SLPM-66364
-  [MULTI-SERIAL SKIPPED] Pro Yakyuu Spirits 5 (Japan) (v1.03).png -> SLPM-66970
-  [MULTI-SERIAL SKIPPED] Pro Yakyuu Spirits 5 (Japan) (v2.00).png -> SLPM-66970
-  [MULTI-SERIAL SKIPPED] Project Zero II - Crimson Butterfly (Europe) (En,Fr,De,Es,It).png -> SLES-52384
-  [MULTI-SERIAL SKIPPED] Ratchet & Clank - Going Commando (USA) (v1.01).png -> SCUS-97268
-  [MULTI-SERIAL SKIPPED] Ratchet & Clank - Going Commando (USA) (v2.00).png -> SCUS-97268
-  [MULTI-SERIAL SKIPPED] Ratchet & Clank 3 (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-52456
-  [MULTI-SERIAL SKIPPED] Resident Evil - Outbreak (USA) (v1.01).png -> SLUS-20765
-  [MULTI-SERIAL SKIPPED] Resident Evil - Outbreak (USA) (v2.00).png -> SLUS-20765
-  [MULTI-SERIAL SKIPPED] Shadow of the Colossus (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-53326
-  [MULTI-SERIAL SKIPPED] Silent Hill 2 (USA) (En,Ja) (v1.20).png -> SLUS-20228
-  [MULTI-SERIAL SKIPPED] Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01).png -> SLUS-20228
-  [MULTI-SERIAL SKIPPED] Silent Scope (Europe) (En,Fr,De,Es,It).png -> SLES-50037
-  [MULTI-SERIAL SKIPPED] Simpsons, The - Road Rage (USA).png -> SLUS-20305
-  [MULTI-SERIAL SKIPPED] Sims 2, The (USA).png -> SLUS-21265
-  [MULTI-SERIAL SKIPPED] Sims 2, The - Pets (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl) (v1.00).png -> SLES-54347
-  [MULTI-SERIAL SKIPPED] Sims 2, The - Pets (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl) (v2.00).png -> SLES-54347
-  [MULTI-SERIAL SKIPPED] SNK vs. Capcom - SVC Chaos (Europe).png -> SLES-53065
-  [MULTI-SERIAL SKIPPED] SOCOM - U.S. Navy SEALs (USA) (v1.00).png -> SCUS-97134
-  [MULTI-SERIAL SKIPPED] SOCOM - U.S. Navy SEALs (USA) (v2.01).png -> SCUS-97134
-  [MULTI-SERIAL SKIPPED] Sonic Riders - Zero Gravity (USA) (En,Ja,Fr,De,Es,It).png -> SLUS-21642
-  [MULTI-SERIAL SKIPPED] Soulcalibur II (USA).png -> SLUS-20643
-  [MULTI-SERIAL SKIPPED] Spider-Man (USA) (v1.00).png -> SLUS-20336
-  [MULTI-SERIAL SKIPPED] Spider-Man (USA) (v2.01).png -> SLUS-20336
-  [MULTI-SERIAL SKIPPED] SSX 3 (Europe) (En,Fr,De,Es) (v1.00).png -> SLES-51697
-  [MULTI-SERIAL SKIPPED] SSX 3 (Europe) (En,Fr,De,Es) (v2.00).png -> SLES-51697
-  [MULTI-SERIAL SKIPPED] Star Wars - Battlefront II (USA) (v1.01).png -> SLUS-21240
-  [MULTI-SERIAL SKIPPED] Star Wars - Battlefront II (USA) (v2.00).png -> SLUS-21240
-  [MULTI-SERIAL SKIPPED] Star Wars - Battlefront II (USA) (v2.01).png -> SLUS-21240
-  [MULTI-SERIAL SKIPPED] Super Dragon Ball Z (Europe).png -> SLES-54161
-  [MULTI-SERIAL SKIPPED] Syphon Filter - Dark Mirror (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-54794
-  [MULTI-SERIAL SKIPPED] Tekken 4 (Europe) (En,Fr,De,Es,It) (v1.00).png -> SCES-50878
-  [MULTI-SERIAL SKIPPED] Tekken 4 (Europe, Australia) (En,Fr,De,Es,It) (v2.00).png -> SCES-50878
-  [MULTI-SERIAL SKIPPED] Tekken Tag Tournament (Europe) (En,Fr,De,Es,It) (v1.00).png -> SCES-50001
-  [MULTI-SERIAL SKIPPED] Tekken Tag Tournament (Europe) (En,Fr,De,Es,It) (v2.00).png -> SCES-50001
-  [MULTI-SERIAL SKIPPED] Tekken Tag Tournament (Japan) (v1.20).png -> SLPS-20015
-  [MULTI-SERIAL SKIPPED] Tekken Tag Tournament (Japan) (v2.00).png -> SLPS-20015
-  [MULTI-SERIAL SKIPPED] Tekken Tag Tournament (USA) (v1.00).png -> SLUS-20001
-  [MULTI-SERIAL SKIPPED] Tekken Tag Tournament (USA) (v2.00).png -> SLUS-20001
-  [MULTI-SERIAL SKIPPED] Tekken's Nina Williams in - Death by Degrees (Europe) (En,De).png -> SCES-53054
-  [MULTI-SERIAL SKIPPED] Tekken's Nina Williams in - Death by Degrees (Europe, Australia) (En,Es).png -> SCES-52586
-  [MULTI-SERIAL SKIPPED] Test Drive (USA) (v1.00).png -> SLUS-20213
-  [MULTI-SERIAL SKIPPED] Test Drive (USA) (v2.00).png -> SLUS-20213
-  [MULTI-SERIAL SKIPPED] Tiger Woods PGA Tour 2004 (Europe) (v1.00).png -> SLES-51887
-  [MULTI-SERIAL SKIPPED] Tiger Woods PGA Tour 2004 (Europe) (v2.00).png -> SLES-51887
-  [MULTI-SERIAL SKIPPED] Time Crisis 3 (Europe, Australia) (En,Fr,De,Es,It).png -> SCES-51844
-  [MULTI-SERIAL SKIPPED] TimeSplitters (USA) (v1.10).png -> SLUS-20090
-  [MULTI-SERIAL SKIPPED] TimeSplitters (USA) (v2.00).png -> SLUS-20090
-  [MULTI-SERIAL SKIPPED] TimeSplitters - Future Perfect (Europe) (En,Fr,De,Es,It).png -> SLES-52993
-  [MULTI-SERIAL SKIPPED] TimeSplitters - Future Perfect (USA).png -> SLUS-21148
-  [MULTI-SERIAL SKIPPED] TimeSplitters 2 (Europe) (En,Fr,De,Es,It).png -> SLES-50877
-  [MULTI-SERIAL SKIPPED] Tom Clancy's Ghost Recon 2 (Europe) (En,Fr,De,Es,It).png -> SLES-52646
-  [MULTI-SERIAL SKIPPED] Tom Clancy's Rainbow Six - Lockdown (USA).png -> SLUS-21144
-  [MULTI-SERIAL SKIPPED] Tony Hawk's American Wasteland (USA) (Collector's Edition).png -> SLUS-21208
-  [MULTI-SERIAL SKIPPED] Tony Hawk's American Wasteland (USA).png -> SLUS-21208
-  [MULTI-SERIAL SKIPPED] Tony Hawk's Pro Skater 3 (USA) (Rev 1).png -> SLUS-20013
-  [MULTI-SERIAL SKIPPED] Tony Hawk's Pro Skater 3 (USA).png -> SLUS-20013
-  [MULTI-SERIAL SKIPPED] Tony Hawk's Pro Skater 4 (USA) (v1.02).png -> SLUS-20504
-  [MULTI-SERIAL SKIPPED] Tony Hawk's Pro Skater 4 (USA) (v2.01).png -> SLUS-20504
-  [MULTI-SERIAL SKIPPED] Transformers (Europe) (En,Fr,De,Es,It).png -> SLES-52388
-  [MULTI-SERIAL SKIPPED] Turok - Evolution (USA).png -> SLUS-20333
-  [MULTI-SERIAL SKIPPED] Urbz, The - Sims in the City (USA).png -> SLUS-21066
-  [MULTI-SERIAL SKIPPED] Viewtiful Joe (Europe, Australia) (En,Fr,De,Es,It).png -> SLES-52678
-  [MULTI-SERIAL SKIPPED] Viewtiful Joe (USA).png -> SLUS-20951
-  [MULTI-SERIAL SKIPPED] Way of the Samurai 2 (Europe) (En,Fr,De).png -> SLES-52275
-  [MULTI-SERIAL SKIPPED] We Love Katamari (USA).png -> SLUS-21230
-  [MULTI-SERIAL SKIPPED] WRC - Rally Evolved (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (v1.01).png -> SCES-53247
-  [MULTI-SERIAL SKIPPED] WRC - Rally Evolved (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00).png -> SCES-53247
-  [MULTI-SERIAL SKIPPED] WRC 4 - The Official Game of the FIA World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (v1.01).png -> SCES-52389
-  [MULTI-SERIAL SKIPPED] WRC 4 - The Official Game of the FIA World Rally Championship (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00).png -> SCES-52389
-  [MULTI-SERIAL SKIPPED] WRC 4 - The Official Game of the FIA World Rally Championship (Japan) (v1.02).png -> SLPM-65975
-  [MULTI-SERIAL SKIPPED] WRC 4 - The Official Game of the FIA World Rally Championship (Japan) (v2.00).png -> SLPM-65975
-  [MULTI-SERIAL SKIPPED] WWE SmackDown vs. Raw 2007 (USA) (v1.01).png -> SLUS-21427
-  [MULTI-SERIAL SKIPPED] WWE SmackDown vs. Raw 2007 (USA) (v2.01).png -> SLUS-21427
-  [MULTI-SERIAL SKIPPED] XGIII - Extreme G Racing (Europe) (En,Fr,De,Es) (v1.02).png -> SLES-50210
-  [MULTI-SERIAL SKIPPED] XGIII - Extreme G Racing (Europe) (En,Fr,De,Es) (v2.00).png -> SLES-50210
+  [DUPLICATE SERIAL SKIPPED] 7 (Seven) - Molmorth no Kiheitai (Japan) (v2.00).png -> SLPS-25025
+  [DUPLICATE SERIAL SKIPPED] ATV Offroad Fury (USA) (v3.01).png -> SCUS-97104
+  [DUPLICATE SERIAL SKIPPED] ATV Offroad Fury 2 (USA) (v2.00).png -> SCUS-97211
+  [DUPLICATE SERIAL SKIPPED] Batman - Vengeance (USA) (En,Fr).png -> SLUS-20226
+  [DUPLICATE SERIAL SKIPPED] Battlefield 2 - Modern Combat (Europe) (En,Es,Nl,Sv) (v2.01).png -> SLES-53729
+  [DUPLICATE SERIAL SKIPPED] Bleach - Erabareshi Tamashii (Japan) (v2.00).png -> SCPS-15087
+  [DUPLICATE SERIAL SKIPPED] Bloody Roar 3 (Japan) (v2.01).png -> SLPM-62055
+  [DUPLICATE SERIAL SKIPPED] Call of Duty - Finest Hour (USA) (v2.02).png -> SLUS-20725
+  [DUPLICATE SERIAL SKIPPED] Call of Duty 2 - Big Red One (USA).png -> SLUS-21228
+  [DUPLICATE SERIAL SKIPPED] Crash Bandicoot - The Wrath of Cortex (USA) (v1.01).png -> SLUS-20238
+  [DUPLICATE SERIAL SKIPPED] Crazy Taxi (USA).png -> SLUS-20202
+  [DUPLICATE SERIAL SKIPPED] Dark Cloud 2 (USA) (v2.00).png -> SCUS-97213
+  [DUPLICATE SERIAL SKIPPED] Devil May Cry 3 - Dante's Awakening (USA) (En,Ja) (Special Edition).png -> SLUS-20216
+  [DUPLICATE SERIAL SKIPPED] Dokapon the World (Japan) (v2.00).png -> SLPM-65750
+  [DUPLICATE SERIAL SKIPPED] Dragon Ball Z - Budokai 3 (USA).png -> SLUS-20998
+  [DUPLICATE SERIAL SKIPPED] DreamWorks Madagascar (USA) (v2.01).png -> SLUS-21015
+  [DUPLICATE SERIAL SKIPPED] DreamWorks Madagascar (USA) (v3.01).png -> SLUS-21015
+  [DUPLICATE SERIAL SKIPPED] Enter the Matrix (Europe) (En,Fr,De,Es,It) (v2.00).png -> SLES-51203
+  [DUPLICATE SERIAL SKIPPED] Enter the Matrix (USA) (v2.00).png -> SLUS-20454
+  [DUPLICATE SERIAL SKIPPED] Getaway, The (Europe) (En,Fr,De,Es,It) (v2.03).png -> SCES-51159
+  [DUPLICATE SERIAL SKIPPED] Getaway, The (Europe) (En,Fr,De,Es,It) (v3.00).png -> SCES-51159
+  [DUPLICATE SERIAL SKIPPED] Getaway, The - Black Monday (Europe) (En,Pt,Ru,El) (v2.00).png -> SCES-52948
+  [DUPLICATE SERIAL SKIPPED] Gran Turismo 3 - A-Spec (Europe, Australia) (En,Fr,De,Es,It) (v2.00).png -> SCES-50294
+  [DUPLICATE SERIAL SKIPPED] Grand Theft Auto - Vice City (USA) (v2.01).png -> SLUS-20552
+  [DUPLICATE SERIAL SKIPPED] Grand Theft Auto - Vice City (USA) (v4.00).png -> SLUS-20552
+  [DUPLICATE SERIAL SKIPPED] Grand Theft Auto III (Europe, Australia) (En,Fr,De,Es,It) (v1.60).png -> SLES-50330
+  [DUPLICATE SERIAL SKIPPED] Hanakisou (Japan) (v2.01).png -> SLPM-66471
+  [DUPLICATE SERIAL SKIPPED] Hot Shots Golf 3 (USA) (v2.00).png -> SCUS-97130
+  [DUPLICATE SERIAL SKIPPED] Jak and Daxter - The Precursor Legacy (USA) (En,Fr,De,Es,It).png -> SCUS-97124
+  [DUPLICATE SERIAL SKIPPED] Jak II (USA) (En,Ja,Fr,De,Es,It,Ko) (v2.01).png -> SCUS-97265
+  [DUPLICATE SERIAL SKIPPED] Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru) (v2.00).png -> SCUS-97429
+  [DUPLICATE SERIAL SKIPPED] Katamari Damacy (Japan) (v2.00).png -> SLPS-25360
+  [DUPLICATE SERIAL SKIPPED] Kuma Uta (Japan) (v2.01).png -> SCPS-11031
+  [DUPLICATE SERIAL SKIPPED] LEGO Star Wars - The Video Game (USA) (v2.00).png -> SLUS-21083
+  [DUPLICATE SERIAL SKIPPED] Midnight Club 3 - DUB Edition (USA) (v2.00).png -> SLUS-21029
+  [DUPLICATE SERIAL SKIPPED] MLB 07 - The Show (USA) (v2.00).png -> SCUS-97556
+  [DUPLICATE SERIAL SKIPPED] Namco Museum 50th Anniversary (USA).png -> SLUS-20273
+  [DUPLICATE SERIAL SKIPPED] Need for Speed - Underground 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da) (v2.00).png -> SLES-52725
+  [DUPLICATE SERIAL SKIPPED] Netchuu! Pro Yakyuu 2002 (Japan) (v2.01).png -> SLPS-20190
+  [DUPLICATE SERIAL SKIPPED] Pac-Man World 2 (USA) (v2.00).png -> SLUS-20224
+  [DUPLICATE SERIAL SKIPPED] Phantom Brave - 2-shuume Hajimemashita. (Japan) (v2.00).png -> SLPS-73108
+  [DUPLICATE SERIAL SKIPPED] Pro Yakyuu Spirits 3 (Japan) (v2.00).png -> SLPM-66364
+  [DUPLICATE SERIAL SKIPPED] Pro Yakyuu Spirits 5 (Japan) (v2.00).png -> SLPM-66970
+  [DUPLICATE SERIAL SKIPPED] Ratchet & Clank - Going Commando (USA) (v2.00).png -> SCUS-97268
+  [DUPLICATE SERIAL SKIPPED] Resident Evil - Outbreak (USA) (v2.00).png -> SLUS-20765
+  [DUPLICATE SERIAL SKIPPED] Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01).png -> SLUS-20228
+  [DUPLICATE SERIAL SKIPPED] Sims 2, The - Pets (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl) (v2.00).png -> SLES-54347
+  [DUPLICATE SERIAL SKIPPED] SOCOM - U.S. Navy SEALs (USA) (v2.01).png -> SCUS-97134
+  [DUPLICATE SERIAL SKIPPED] Spider-Man (USA) (v2.01).png -> SLUS-20336
+  [DUPLICATE SERIAL SKIPPED] SSX 3 (Europe) (En,Fr,De,Es) (v2.00).png -> SLES-51697
+  [DUPLICATE SERIAL SKIPPED] Star Wars - Battlefront II (USA) (v2.00).png -> SLUS-21240
+  [DUPLICATE SERIAL SKIPPED] Star Wars - Battlefront II (USA) (v2.01).png -> SLUS-21240
+  [DUPLICATE SERIAL SKIPPED] Tekken 4 (Europe, Australia) (En,Fr,De,Es,It) (v2.00).png -> SCES-50878
+  [DUPLICATE SERIAL SKIPPED] Tekken Tag Tournament (Europe) (En,Fr,De,Es,It) (v2.00).png -> SCES-50001
+  [DUPLICATE SERIAL SKIPPED] Tekken Tag Tournament (Japan) (v2.00).png -> SLPS-20015
+  [DUPLICATE SERIAL SKIPPED] Tekken Tag Tournament (USA) (v2.00).png -> SLUS-20001
+  [DUPLICATE SERIAL SKIPPED] Test Drive (USA) (v2.00).png -> SLUS-20213
+  [DUPLICATE SERIAL SKIPPED] Tiger Woods PGA Tour 2004 (Europe) (v2.00).png -> SLES-51887
+  [DUPLICATE SERIAL SKIPPED] TimeSplitters (USA) (v2.00).png -> SLUS-20090
+  [DUPLICATE SERIAL SKIPPED] Tony Hawk's American Wasteland (USA).png -> SLUS-21208
+  [DUPLICATE SERIAL SKIPPED] Tony Hawk's Pro Skater 3 (USA).png -> SLUS-20013
+  [DUPLICATE SERIAL SKIPPED] Tony Hawk's Pro Skater 4 (USA) (v2.01).png -> SLUS-20504
+  [DUPLICATE SERIAL SKIPPED] WRC - Rally Evolved (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00).png -> SCES-53247
+  [DUPLICATE SERIAL SKIPPED] WRC 4 - The Official Game of the FIA World Rally Championship (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00).png -> SCES-52389
+  [DUPLICATE SERIAL SKIPPED] WRC 4 - The Official Game of the FIA World Rally Championship (Japan) (v2.00).png -> SLPM-65975
+  [DUPLICATE SERIAL SKIPPED] WWE SmackDown vs. Raw 2007 (USA) (v2.01).png -> SLUS-21427
+  [DUPLICATE SERIAL SKIPPED] XGIII - Extreme G Racing (Europe) (En,Fr,De,Es) (v2.00).png -> SLES-50210
