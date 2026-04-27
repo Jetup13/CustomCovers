@@ -1,10 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <games>
 <game>
-  <name>0 Story (Japan) (Taikenban)</name>
-  <serial>SLPM-60101</serial>
-</game>
-<game>
   <name>007 - Agent Under Fire (Korea)</name>
   <serial>SLPM-67505</serial>
 </game>
@@ -941,14 +937,6 @@
   <serial>SLPS-25730</serial>
 </game>
 <game>
-  <name>Armored Core - Nexus (Japan, Asia) (Disc 1) (Evolution)</name>
-  <serial>SCAJ-20076</serial>
-</game>
-<game>
-  <name>Armored Core - Nexus (Japan, Asia) (Disc 2) (Revolution)</name>
-  <serial>SCAJ-20077</serial>
-</game>
-<game>
   <name>Armored Core - Nexus (Korea) (Evolution)</name>
   <serial>SLKA-25178</serial>
 </game>
@@ -1649,10 +1637,6 @@
   <serial>SLUS-20495</serial>
 </game>
 <game>
-  <name>Battle Gear 3 (Japan, Asia)</name>
-  <serial>SCAJ-20055</serial>
-</game>
-<game>
   <name>Battle of Sunrise (Japan)</name>
   <serial>SLPS-25855</serial>
 </game>
@@ -1899,10 +1883,6 @@
 <game>
   <name>Bionicle Heroes (Japan)</name>
   <serial>SLPM-66645</serial>
-</game>
-<game>
-  <name>Bistro Cupid 2 (Japan) (Tokubetsuban)</name>
-  <serial>SLPM-65347</serial>
 </game>
 <game>
   <name>Black &amp; Bruised (Europe) (En,Fr,De,Es,It)</name>
@@ -2233,10 +2213,6 @@
   <serial>SCES-50241</serial>
 </game>
 <game>
-  <name>Bouncer, The (USA, Canada) (En,Ja)</name>
-  <serial>SLUS-20069</serial>
-</game>
-<game>
   <name>Bowling Xciting (Europe)</name>
   <serial>SLES-51861</serial>
 </game>
@@ -2507,10 +2483,6 @@
 <game>
   <name>Burnout Revenge (USA) (Demo)</name>
   <serial>SLUS-29153</serial>
-</game>
-<game>
-  <name>Burnout Revenge (USA, Canada)</name>
-  <serial>SLUS-21242</serial>
 </game>
 <game>
   <name>Busin 0 - Wizardry Alternative Neo (Korea)</name>
@@ -3053,10 +3025,6 @@
   <serial>SLKA-25449</serial>
 </game>
 <game>
-  <name>Call of Duty - World at War - Final Fronts (USA, Canada) (En,Fr)</name>
-  <serial>SLUS-21746</serial>
-</game>
-<game>
   <name>Call of Duty 2 - Big Red One (Europe)</name>
   <serial>SLES-53415</serial>
 </game>
@@ -3485,14 +3453,6 @@
   <serial>SLPM-62360</serial>
 </game>
 <game>
-  <name>Chou Battle Houshin (Japan)</name>
-  <serial>SLPM-65207</serial>
-</game>
-<game>
-  <name>Chou Battle Houshin (Japan) (Premium Pack)</name>
-  <serial>SLPM-65210</serial>
-</game>
-<game>
   <name>Chou Jikuu Yousai Macross (Japan)</name>
   <serial>SLPM-65405</serial>
 </game>
@@ -3889,10 +3849,6 @@
   <serial>SLES-53158</serial>
 </game>
 <game>
-  <name>Cold Fear (USA) (En,Fr,Es)</name>
-  <serial>SLUS-21047</serial>
-</game>
-<game>
   <name>Cold Winter (Europe) (Demo)</name>
   <serial>SLED-53327</serial>
 </game>
@@ -3911,10 +3867,6 @@
 <game>
   <name>Cold Winter (USA) (Beta) (2005-02-09)</name>
   <serial>SLUS-20845</serial>
-</game>
-<game>
-  <name>Colin McRae Rally 04 (Europe, Australia) (En,Fr,De,Es,It)</name>
-  <serial>SLES-51824</serial>
 </game>
 <game>
   <name>Colin McRae Rally 3 (Europe, Australia) (En,Fr,De,Es,It)</name>
@@ -4123,10 +4075,6 @@
 <game>
   <name>Corvette (Europe) (En,Fr,De)</name>
   <serial>SLES-52219</serial>
-</game>
-<game>
-  <name>Corvette Evolution GT (USA, Canada)</name>
-  <serial>SLUS-21499</serial>
 </game>
 <game>
   <name>Counter Terrorist Special Forces - Fire for Effect (Europe) (En,Fr,De,Es,It)</name>
@@ -4643,10 +4591,6 @@
 <game>
   <name>Dark Angel - Vampire Apocalypse (USA) (v2.01)</name>
   <serial>SLUS-20131</serial>
-</game>
-<game>
-  <name>Dark Chronicle (Japan) (Taikenban)</name>
-  <serial>PAPX-90506</serial>
 </game>
 <game>
   <name>Dark Cloud (Japan) (Sample Movie Disc)</name>
@@ -5825,10 +5769,6 @@
   <serial>SLES-55030</serial>
 </game>
 <game>
-  <name>Disney-Pixar Cars - Mater-National Championship (USA, Canada)</name>
-  <serial>SLUS-21637</serial>
-</game>
-<game>
   <name>Disney-Pixar Cars - Race-O-Rama (Europe) (En,Fr,De,Es,It)</name>
   <serial>SLES-55536</serial>
 </game>
@@ -6061,10 +6001,6 @@
   <serial>SCES-52763</serial>
 </game>
 <game>
-  <name>DJ Hero (USA) (En,Fr)</name>
-  <serial>SLUS-21909</serial>
-</game>
-<game>
   <name>DJbox (Japan)</name>
   <serial>SCPS-15082</serial>
 </game>
@@ -6153,10 +6089,6 @@
   <serial>SLKA-25225</serial>
 </game>
 <game>
-  <name>Dot Hack Akusei Hen'i Vol. 2 (Japan, Asia)</name>
-  <serial>SCPS-55042</serial>
-</game>
-<game>
   <name>Dot Hack Fraegment (Japan) (Senkou Release-ban)</name>
   <serial>SLPM-68521</serial>
 </game>
@@ -6167,10 +6099,6 @@
 <game>
   <name>Dot Hack G.U. Vol. 1 - Rebirth (USA) (Demo)</name>
   <serial>SLUS-29199</serial>
-</game>
-<game>
-  <name>Dot Hack Part 1 - Infection (USA)</name>
-  <serial>SLUS-20267</serial>
 </game>
 <game>
   <name>Dot Hack Part 1 - Infection (USA) (Demo)</name>
@@ -6329,10 +6257,6 @@
   <serial>SLED-53977</serial>
 </game>
 <game>
-  <name>Dragon Quest V - Tenkuu no Hanayome (Japan, Asia)</name>
-  <serial>SCAJ-20075</serial>
-</game>
-<game>
   <name>Dragon Quest VIII - Journey of the Cursed King (USA) (Demo)</name>
   <serial>SLUS-29157</serial>
 </game>
@@ -6453,10 +6377,6 @@
   <serial>SLES-55375</serial>
 </game>
 <game>
-  <name>DreamWorks Madagascar - Escape 2 Africa (USA) (En,Fr)</name>
-  <serial>SLUS-21840</serial>
-</game>
-<game>
   <name>DreamWorks Madagaskar 2 (Sweden)</name>
   <serial>SLES-55390</serial>
 </game>
@@ -6545,10 +6465,6 @@
   <serial>SLKA-25196</serial>
 </game>
 <game>
-  <name>Driv3r (USA, Canada) (En,Fr,Es)</name>
-  <serial>SLUS-20587</serial>
-</game>
-<game>
   <name>Driven (Europe) (En,Fr,De,Es,It)</name>
   <serial>SLES-50390</serial>
 </game>
@@ -6575,18 +6491,6 @@
 <game>
   <name>Driver - Parallel Lines (USA) (Demo)</name>
   <serial>SLUS-29185</serial>
-</game>
-<game>
-  <name>Driver - Parallel Lines (USA) (Limited Edition)</name>
-  <serial>SLUS-21399</serial>
-</game>
-<game>
-  <name>Driver - Parallel Lines (USA, Canada)</name>
-  <serial>SLUS-21271</serial>
-</game>
-<game>
-  <name>Driving Emotion Type-S (USA, Canada) (En,Fr,De,Es,It)</name>
-  <serial>SLUS-20113</serial>
 </game>
 <game>
   <name>Dropship - United Peace Force (Europe, Australia) (En,Fr,De,Es,It)</name>
@@ -6839,10 +6743,6 @@
 <game>
   <name>Ed, Edd n Eddy - The Mis-Edventures (Europe)</name>
   <serial>SLES-53747</serial>
-</game>
-<game>
-  <name>Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr)</name>
-  <serial>SLUS-21260</serial>
 </game>
 <game>
   <name>Edel Blume (Japan) (Genteiban)</name>
@@ -7681,10 +7581,6 @@
   <serial>SCED-53177</serial>
 </game>
 <game>
-  <name>F - Fanatic (Japan) (Shokai Genteiban)</name>
-  <serial>SLPM-65296</serial>
-</game>
-<game>
   <name>F1 2001 (Europe) (En,Es,It,Sv)</name>
   <serial>SLES-50431</serial>
 </game>
@@ -8345,10 +8241,6 @@
   <serial>SLKA-25235</serial>
 </game>
 <game>
-  <name>FIFA Street (USA) (En,Es)</name>
-  <serial>SLUS-21147</serial>
-</game>
-<game>
   <name>FIFA Street 2 (Europe)</name>
   <serial>SLES-53796</serial>
 </game>
@@ -8533,10 +8425,6 @@
   <serial>SCES-50494</serial>
 </game>
 <game>
-  <name>Final Fantasy X (USA, Canada)</name>
-  <serial>SLUS-20312</serial>
-</game>
-<game>
   <name>Final Fantasy X International (Asia)</name>
   <serial>SLPM-65115</serial>
 </game>
@@ -8595,10 +8483,6 @@
 <game>
   <name>Final Fantasy XII (USA) (Demo)</name>
   <serial>SLUS-29171</serial>
-</game>
-<game>
-  <name>Final Fantasy XII International - Zodiac Job System (Japan, Korea)</name>
-  <serial>SCKA-20110</serial>
 </game>
 <game>
   <name>Final Fight - Streetwise (Europe) (En,Fr,De,Es,It)</name>
@@ -9197,10 +9081,6 @@
   <serial>SLKA-25352</serial>
 </game>
 <game>
-  <name>Fullmetal Alchemist and the Broken Angel (USA, Canada)</name>
-  <serial>SLUS-20994</serial>
-</game>
-<game>
   <name>Fur Fighters - Viggo's Revenge (Europe) (En,Fr,De,Es)</name>
   <serial>SLES-50106</serial>
 </game>
@@ -9343,14 +9223,6 @@
 <game>
   <name>G1 Jockey 4 (Europe, Australia)</name>
   <serial>SLES-53917</serial>
-</game>
-<game>
-  <name>Gacha Mecha Stadium - Saru Battle (Japan) (Taikenban)</name>
-  <serial>PAPX-90518</serial>
-</game>
-<game>
-  <name>Gacha Mecha Stadium - Saru Battle (Japan, Asia)</name>
-  <serial>SCAJ-20090</serial>
 </game>
 <game>
   <name>Gacharoku (Japan)</name>
@@ -10273,10 +10145,6 @@
   <serial>SCCS-60002</serial>
 </game>
 <game>
-  <name>Gran Turismo 4 (Europe) (En,Fr,De,Es,It) (BMW 1 Series Virtual Drive)</name>
-  <serial>SCED-52681</serial>
-</game>
-<game>
   <name>Gran Turismo 4 (Japan) (Doukonban)</name>
   <serial>PBPX-95601</serial>
 </game>
@@ -10411,10 +10279,6 @@
 <game>
   <name>Grand Theft Auto - Vice City Stories (Germany) (En,De)</name>
   <serial>SLES-54623</serial>
-</game>
-<game>
-  <name>Grand Theft Auto III (USA, Canada)</name>
-  <serial>SLUS-20062</serial>
 </game>
 <game>
   <name>Grande quiz sul calcio italiano, Il (Italy)</name>
@@ -10683,10 +10547,6 @@
 <game>
   <name>Guitar Hero - Metallica (Europe, Australia) (En,Fr,De,Es,It)</name>
   <serial>SLES-55472</serial>
-</game>
-<game>
-  <name>Guitar Hero - Metallica (USA) (En,Fr)</name>
-  <serial>SLUS-21843</serial>
 </game>
 <game>
   <name>Guitar Hero - Rocks the 80s (Europe) (Fr,De,Es,It)</name>
@@ -12233,10 +12093,6 @@
   <serial>SLES-55208</serial>
 </game>
 <game>
-  <name>Incredible Hulk, The (USA) (En,Fr)</name>
-  <serial>SLUS-21765</serial>
-</game>
-<game>
   <name>Incredible Hulk, The - Ultimate Destruction (Europe) (En,Fr,De) (Demo)</name>
   <serial>SLED-53445</serial>
 </game>
@@ -13265,10 +13121,6 @@
   <serial>SLUS-29147</serial>
 </game>
 <game>
-  <name>Juiced 2 - Hot Import Nights (USA, Canada)</name>
-  <serial>SLUS-21593</serial>
-</game>
-<game>
   <name>Jumanji (Australia)</name>
   <serial>SLES-54436</serial>
 </game>
@@ -13725,10 +13577,6 @@
   <serial>SLPM-65418</serial>
 </game>
 <game>
-  <name>Kengou 2 (Japan, Asia)</name>
-  <serial>SCPS-55020</serial>
-</game>
-<game>
   <name>Kenka Banchou (Japan) (PlayStation 2 the Best)</name>
   <serial>SLPM-74221</serial>
 </game>
@@ -13755,14 +13603,6 @@
 <game>
   <name>Kessen (Germany)</name>
   <serial>SLES-50020</serial>
-</game>
-<game>
-  <name>Kessen (Japan) (v1.50)</name>
-  <serial>SLPM-65001</serial>
-</game>
-<game>
-  <name>Kessen (Japan) (v2.10)</name>
-  <serial>SLPM-65030</serial>
 </game>
 <game>
   <name>Kessen II (France)</name>
@@ -14049,24 +13889,12 @@
   <serial>SLES-53381</serial>
 </game>
 <game>
-  <name>King of Fighters 2002, The (Japan) (SNK Best Collection)</name>
-  <serial>SLPS-25573</serial>
-</game>
-<game>
-  <name>King of Fighters 2002, The (Japan, Asia)</name>
-  <serial>SCAJ-20074</serial>
-</game>
-<game>
   <name>King of Fighters 2002, The (Korea)</name>
   <serial>SLKA-25275</serial>
 </game>
 <game>
   <name>King of Fighters 2002, The - Challenge to Ultimate Battle (USA)</name>
   <serial>SLUS-20995</serial>
-</game>
-<game>
-  <name>King of Fighters 2002, The - Unlimited Match (Japan, Korea)</name>
-  <serial>SLKA-25457</serial>
 </game>
 <game>
   <name>King of Fighters 2003, The (Europe)</name>
@@ -16029,10 +15857,6 @@
   <serial>SLED-50895</serial>
 </game>
 <game>
-  <name>Medal of Honor - Frontline (Europe, Australia) (En,Es,It)</name>
-  <serial>SLES-50684</serial>
-</game>
-<game>
   <name>Medal of Honor - Frontline (Germany)</name>
   <serial>SLES-50846</serial>
 </game>
@@ -16229,10 +16053,6 @@
   <serial>SLES-54998</serial>
 </game>
 <game>
-  <name>Mercenaries 2 - World in Flames (Europe, Australia)</name>
-  <serial>SLES-54997</serial>
-</game>
-<game>
   <name>Mercenaries 2 - World in Flames (Germany)</name>
   <serial>SLES-55000</serial>
 </game>
@@ -16331,14 +16151,6 @@
 <game>
   <name>Metal Gear Solid 3 - Subsistence (Italy) (Disc 3) (Existence)</name>
   <serial>SLES-82051</serial>
-</game>
-<game>
-  <name>Metal Gear Solid 3 - Subsistence (Japan) (Disc 1) (Subsistence) (Shokai Seisanban)</name>
-  <serial>SLPM-66220</serial>
-</game>
-<game>
-  <name>Metal Gear Solid 3 - Subsistence (Japan) (Disc 2) (Persistence) (Shokai Seisanban)</name>
-  <serial>SLPM-66221</serial>
 </game>
 <game>
   <name>Metal Gear Solid 3 - Subsistence (Korea) (Disc 1) (Subsistence)</name>
@@ -17401,10 +17213,6 @@
   <serial>SLPM-55223</serial>
 </game>
 <game>
-  <name>Namco 50 Anniversary - namCollection (Japan, Asia)</name>
-  <serial>SCAJ-20131</serial>
-</game>
-<game>
   <name>Namco Transmission v1.03 (USA)</name>
   <serial>SLUS-29071</serial>
 </game>
@@ -18105,10 +17913,6 @@
   <serial>SLUS-29193</serial>
 </game>
 <game>
-  <name>Need for Speed - Carbon (USA, Canada)</name>
-  <serial>SLUS-21493</serial>
-</game>
-<game>
   <name>Need for Speed - Carbon - Collector's Edition (Asia)</name>
   <serial>SLAJ-25091</serial>
 </game>
@@ -18201,14 +18005,6 @@
   <serial>SLES-55006</serial>
 </game>
 <game>
-  <name>Need for Speed - ProStreet (USA) (Beta) (2007-10-04)</name>
-  <serial>SLUS-21658</serial>
-</game>
-<game>
-  <name>Need for Speed - ProStreet (USA, Canada)</name>
-  <serial>SLUS-21658</serial>
-</game>
-<game>
   <name>Need for Speed - Undercover (Europe) (En,Nl,Pl,Ru,Cs,Hu)</name>
   <serial>SLES-55353</serial>
 </game>
@@ -18231,10 +18027,6 @@
 <game>
   <name>Need for Speed - Undercover (Korea)</name>
   <serial>SLKA-25446</serial>
-</game>
-<game>
-  <name>Need for Speed - Undercover (USA, Canada) (En,Fr,Es)</name>
-  <serial>SLUS-21801</serial>
 </game>
 <game>
   <name>Need for Speed - Underground (Asia) (Demo)</name>
@@ -18271,10 +18063,6 @@
 <game>
   <name>Need for Speed - Underground 2 (USA) (Demo)</name>
   <serial>SLUS-29118</serial>
-</game>
-<game>
-  <name>Need for Speed - Underground 2 (USA, Canada)</name>
-  <serial>SLUS-21065</serial>
 </game>
 <game>
   <name>Negima! 3-jikanme - Koi to Mahou to Sekaiju Densetsu! (Japan) (Engeki-ban)</name>
@@ -19179,10 +18967,6 @@
 <game>
   <name>Ninja Assault (Europe) (En,Fr,De,Es,It)</name>
   <serial>SCES-50889</serial>
-</game>
-<game>
-  <name>Ninja Assault (Japan, Asia)</name>
-  <serial>SCPS-51014</serial>
 </game>
 <game>
   <name>Ninja Assault (Korea)</name>
@@ -24325,14 +24109,6 @@
   <serial>SLPM-61140</serial>
 </game>
 <game>
-  <name>Ryuu ga Gotoku 2 (Japan) (PlayStation 2 the Best)</name>
-  <serial>SLPM-74301</serial>
-</game>
-<game>
-  <name>Ryuu ga Gotoku 2 (Japan) (Taikenban)</name>
-  <serial>SLPM-61154</serial>
-</game>
-<game>
   <name>S.L.A.I. - Steel Lancer Arena International (Europe) (Beta) (2005-02-01)</name>
   <serial>TLES-52940</serial>
 </game>
@@ -24497,10 +24273,6 @@
   <serial>SLUS-20899</serial>
 </game>
 <game>
-  <name>Samurai Spirits Zero (Japan, Asia)</name>
-  <serial>SCAJ-20092</serial>
-</game>
-<game>
   <name>Samurai Warriors (France)</name>
   <serial>SLES-52552</serial>
 </game>
@@ -24615,14 +24387,6 @@
 <game>
   <name>Saru! Get You! 2 - Ukki Ukki Disc (Japan)</name>
   <serial>PAPX-90330</serial>
-</game>
-<game>
-  <name>Saru! Get You! 3 (Japan) (Tentou-you Taikenban)</name>
-  <serial>PCPX-96657</serial>
-</game>
-<game>
-  <name>Saru! Get You! 3 (Japan, Asia)</name>
-  <serial>SCAJ-20138</serial>
 </game>
 <game>
   <name>Saru! Get You! Million Monkeys (Japan) (Taikenban)</name>
@@ -25101,10 +24865,6 @@
   <serial>SLES-51253</serial>
 </game>
 <game>
-  <name>Seiken Densetsu 4 (Japan, Korea)</name>
-  <serial>SCKA-20101</serial>
-</game>
-<game>
   <name>Sekai Saikyou Ginsei Igo 5 (Japan)</name>
   <serial>SLPS-20364</serial>
 </game>
@@ -25153,10 +24913,6 @@
   <serial>SLES-55512</serial>
 </game>
 <game>
-  <name>Sengoku Basara 2 - Heroes (Japan, Korea)</name>
-  <serial>SLKA-25412</serial>
-</game>
-<game>
   <name>Sengoku Hime - Senran ni Mau Otometachi (Japan)</name>
   <serial>SLPM-55218</serial>
 </game>
@@ -25171,10 +24927,6 @@
 <game>
   <name>Sengoku Musou 2 &amp; Sengoku Musou 2 - Empires Saikyou Data (Japan)</name>
   <serial>SLPM-62768</serial>
-</game>
-<game>
-  <name>Sengoku Musou 2 - Empires (Japan, Korea)</name>
-  <serial>SLKA-25398</serial>
 </game>
 <game>
   <name>Sengoku Tenka Touitsu (Japan)</name>
@@ -25215,14 +24967,6 @@
 <game>
   <name>Shadow Hearts (UK)</name>
   <serial>SLES-50677</serial>
-</game>
-<game>
-  <name>Shadow Hearts II (Japan) (Furokuban)</name>
-  <serial>SLPM-60219</serial>
-</game>
-<game>
-  <name>Shadow Hearts II (Japan) (Taikenban)</name>
-  <serial>SLPM-60214</serial>
 </game>
 <game>
   <name>Shadow Man - 2econd Coming (Europe) (En,Fr,Es,It)</name>
@@ -25275,10 +25019,6 @@
 <game>
   <name>Shadow of Zorro, The (Europe) (En,Fr,De,Es,It)</name>
   <serial>SLES-50662</serial>
-</game>
-<game>
-  <name>Shadow the Hedgehog (Europe, Australia) (En,Ja,Fr,De,Es,It)</name>
-  <serial>SLES-53542</serial>
 </game>
 <game>
   <name>Shanghai - Sangoku-pai Tougi (Japan)</name>
@@ -25589,18 +25329,6 @@
   <serial>SLPM-66633</serial>
 </game>
 <game>
-  <name>Shoujo Yoshitsune-den (Japan) (Tokubetsuban)</name>
-  <serial>SLPM-65363</serial>
-</game>
-<game>
-  <name>Shoujo Yoshitsune-den Ni - Toki o Koeru Chigiri (Japan)</name>
-  <serial>SLPM-65989</serial>
-</game>
-<game>
-  <name>Shoujo Yoshitsune-den Ni - Toki o Koeru Chigiri (Japan) (Tokubetsuban)</name>
-  <serial>SLPM-65988</serial>
-</game>
-<game>
   <name>Shoukan Shoujo - Elemental Girl Calling (Japan)</name>
   <serial>SLPM-66872</serial>
 </game>
@@ -25703,14 +25431,6 @@
 <game>
   <name>Shutokou Battle 0 (Japan) (Taikenban)</name>
   <serial>SLPM-60132</serial>
-</game>
-<game>
-  <name>Shutokou Battle 01 (Japan) (Taikenban)</name>
-  <serial>SLPM-60206</serial>
-</game>
-<game>
-  <name>Shutokou Battle 01 (Japan, Asia)</name>
-  <serial>SLAJ-25018</serial>
 </game>
 <game>
   <name>Sidewinder F (Japan)</name>
@@ -26409,10 +26129,6 @@
   <serial>SLES-54905</serial>
 </game>
 <game>
-  <name>Simpsons Game, The (USA, Canada)</name>
-  <serial>SLUS-21665</serial>
-</game>
-<game>
   <name>Simpsons Skateboarding, The (Europe)</name>
   <serial>SLES-50754</serial>
 </game>
@@ -26443,10 +26159,6 @@
 <game>
   <name>Sims 2, The (USA) (Demo)</name>
   <serial>SLUS-29173</serial>
-</game>
-<game>
-  <name>Sims 2, The - Castaway (USA, Canada)</name>
-  <serial>SLUS-21664</serial>
 </game>
 <game>
   <name>Sims, The (Asia)</name>
@@ -27733,10 +27445,6 @@
   <serial>SLKA-25308</serial>
 </game>
 <game>
-  <name>Sonic Heroes (Japan, Asia) (En,Ja,Fr,De,Es,It)</name>
-  <serial>SLAJ-25027</serial>
-</game>
-<game>
   <name>Sonic Mega Collection Plus (Korea)</name>
   <serial>SLKA-25233</serial>
 </game>
@@ -28573,10 +28281,6 @@
   <serial>SLES-54331</serial>
 </game>
 <game>
-  <name>Street Fighter Alpha Anthology (Europe, Australia)</name>
-  <serial>SLES-54085</serial>
-</game>
-<game>
   <name>Street Fighter Anniversary Collection (Korea) (En,Ja)</name>
   <serial>SLKA-25183</serial>
 </game>
@@ -29345,10 +29049,6 @@
   <serial>SLPS-20336</serial>
 </game>
 <game>
-  <name>Taisen Hot Gimmick - Axes-jong (Japan)</name>
-  <serial>SLPM-62612</serial>
-</game>
-<game>
   <name>Taito Legends (Germany)</name>
   <serial>SLES-53966</serial>
 </game>
@@ -29427,10 +29127,6 @@
 <game>
   <name>Tale of Despereaux, The (USA) (En,Fr)</name>
   <serial>SLUS-21852</serial>
-</game>
-<game>
-  <name>Tales of Destiny (Japan, Korea)</name>
-  <serial>SCKA-20100</serial>
 </game>
 <game>
   <name>Tales of Destiny 2 (Asia)</name>
@@ -29819,10 +29515,6 @@
 <game>
   <name>Test Drive Unlimited (USA) (Beta) (2006-06-30)</name>
   <serial>SLUS-29192</serial>
-</game>
-<game>
-  <name>Tetris Worlds (Europe, Australia) (En,Fr,De)</name>
-  <serial>SLES-50551</serial>
 </game>
 <game>
   <name>Tetsu One - Densha de Battle! (Japan)</name>
@@ -30345,14 +30037,6 @@
   <serial>SLES-50954</serial>
 </game>
 <game>
-  <name>Tokyo Xtreme Racer - Drift (USA, Canada)</name>
-  <serial>SLUS-21236</serial>
-</game>
-<game>
-  <name>Tokyo Xtreme Racer 3 (USA, Canada)</name>
-  <serial>SLUS-20831</serial>
-</game>
-<game>
   <name>Tom and Jerry in War of the Whiskers (Europe) (En,Fr,De,Es,It,Nl)</name>
   <serial>SLES-51053</serial>
 </game>
@@ -30651,10 +30335,6 @@
 <game>
   <name>Tour de France, Le - 1903-2003 - Centenary Edition (Europe) (En,Fr,De,Es,It)</name>
   <serial>SLES-51488</serial>
-</game>
-<game>
-  <name>Tourist Trophy (USA, Canada)</name>
-  <serial>SCUS-97502</serial>
 </game>
 <game>
   <name>Tourist Trophy - The Real Riding Simulator (Asia)</name>
@@ -30971,10 +30651,6 @@
 <game>
   <name>Twisted Metal - Black Online (USA) (Beta)</name>
   <serial>SCUS-97860</serial>
-</game>
-<game>
-  <name>Twisted Metal - Head-On - Extra Twisted Edition (USA, Canada)</name>
-  <serial>SCUS-97621</serial>
 </game>
 <game>
   <name>Ty the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)</name>
@@ -31399,10 +31075,6 @@
 <game>
   <name>V-Rally 3 (Europe) (Demo)</name>
   <serial>SLED-51212</serial>
-</game>
-<game>
-  <name>V-Rally 3 (Japan, Asia) (En,Ja,Fr,De,Es,It) (v1.02)</name>
-  <serial>SCAJ-20008</serial>
 </game>
 <game>
   <name>V.I.P. (Europe) (En,Fr,De,Es,It)</name>
@@ -31911,14 +31583,6 @@
 <game>
   <name>Who Wants to Be a Millionaire - 2nd Edition (Europe) (Beta) (2001-11-01)</name>
   <serial>SLES-50495</serial>
-</game>
-<game>
-  <name>Wild Arms - Advanced 3rd (Japan) (v2.00)</name>
-  <serial>SCPS-19323</serial>
-</game>
-<game>
-  <name>Wild Arms - Advanced 3rd (Japan, Asia) (v1.04)</name>
-  <serial>SCPS-15024</serial>
 </game>
 <game>
   <name>Wild Arms - The 4th Detonator (Japan) (Tentou Senkou Taikenban)</name>
@@ -32507,22 +32171,6 @@
 <game>
   <name>WRC - World Rally Championship (Europe) (Demo)</name>
   <serial>SCED-50520</serial>
-</game>
-<game>
-  <name>WRC 3 - The Official Game of the FIA World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (Demo 1)</name>
-  <serial>SCED-52141</serial>
-</game>
-<game>
-  <name>WRC 3 - The Official Game of the FIA World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (Demo 2)</name>
-  <serial>SCES-52137</serial>
-</game>
-<game>
-  <name>WRC 3 - The Official Game of the FIA World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00)</name>
-  <serial>SCES-51684</serial>
-</game>
-<game>
-  <name>WRC 3 - The Official Game of the FIA World Rally Championship (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v1.01)</name>
-  <serial>SCES-51684</serial>
 </game>
 <game>
   <name>WRC 3 - The Official Game of the FIA World Rally Championship (Japan)</name>
